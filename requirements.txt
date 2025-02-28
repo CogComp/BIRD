@@ -1,0 +1,5 @@
+torch==2.4.0
+pandas==2.2.3
+scikit-learn==1.5.2
+openai==1.51.0
+vllm==0.6.3

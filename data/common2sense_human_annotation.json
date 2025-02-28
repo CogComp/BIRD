@@ -1,0 +1,1826 @@
+[
+    {
+        "scenario": "A comparison is being made between the weight of individual eggs and a ball of lead of the same size.",
+        "statement": "Individual eggs weigh less than a ball of lead the same size.",
+        "opposite_statement": "Individual eggs weigh more than a ball of lead the same size.",
+        "additional_sentences": [
+            "An egg largely comprises water which weighs less than lead.",
+            "A lead ball of the same size as an egg would not contain any air pockets, as opposed to an egg which has some air space inside it."
+        ]
+    },
+    {
+        "scenario": "A five-year-old child is attempting to open a bottle, and the ease of uncapping is being considered.",
+        "statement": "A five year old will have an easier time uncapping a glass bottle than a plastic bottle.",
+        "opposite_statement": "A five year old will have an easier time uncapping a plastic bottle than a glass bottle.",
+        "additional_sentences": [
+            "The glass bottle's cap is a classic pry-off, requiring more strength to remove.",
+            "The plastic bottle has a twist-cap mechanism designed for user ease.",
+            "The five-year-old has been trained or has more experience opening plastic bottles."
+        ]
+    },
+    {
+        "scenario": "A five-year-old child is attempting to open both a plastic bottle and a glass bottle.",
+        "statement": "A five year old will have an easier time uncapping a plastic bottle than a glass bottle.",
+        "opposite_statement": "A five year old will have an easier time uncapping a glass bottle than a plastic bottle.",
+        "additional_sentences": [
+            "The cap on the glass bottle is not as tightly secured as the cap on the plastic bottle.",
+            "The glass bottle is designed with a twist-off cap.",
+            "The glass bottle is equipped with an easy-to-open cap, unlike the plastic one.",
+            "The plastic bottle's cap is sealed tighter than that of the glass bottle."
+        ]
+    },
+    {
+        "scenario": "A spilled water mess needs to be cleaned up, and the choice of cleaning tool is being considered.",
+        "statement": "When cleaning up spilled water, it is better to use a cloth than a brush.",
+        "opposite_statement": "When cleaning up spilled water, it is better to use a brush than a cloth.",
+        "additional_sentences": [
+            "A cloth can absorb liquids effectively.",
+            "The floor has a textured surface that can trap water."
+        ]
+    },
+    {
+        "scenario": "A storm watch is in effect, and the decision is being made whether to go out to the bar or stay inside.",
+        "statement": "Since there is a storm watch, it's best to go out to the bar rather than stay inside.",
+        "opposite_statement": "Since there is a storm watch, it's best to stay inside rather than go out to the bar.",
+        "additional_sentences": [
+            "The bar is a designated storm shelter in your area with reinforced structure and multiple emergency facilities.",
+            "The storm watch indicates potential for strong winds and lightning.",
+            "The bar has backup generators for power and has an ample supply of food and water.",
+            "The bar has a reliable backup power supply and is known for its safety measures during storms.",
+            "Authorities have issued a warning cautioning residents to avoid unnecessary trips due to the storm.",
+            "Your home is prone to losing power or experiencing other issues during storms."
+        ]
+    },
+    {
+        "scenario": "Bob spends his day watching TV while his wife engages in regular exercise. The outcome of a race between them is being considered.",
+        "statement": "Bob watches TV all day while his wife exercises. His wife would lose in a race.",
+        "opposite_statement": "Bob watches TV all day while his wife exercises. His wife would win in a race.",
+        "additional_sentences": [
+            "Bob leads an entirely sedentary lifestyle and doesn't engage in any form of physical activity, while his wife does regular cardio workouts.",
+            "Bob's wife engages in regular cardiovascular exercises like running or cycling.",
+            "Bob leads a sedentary lifestyle and does not engage in physical activity."
+        ]
+    },
+    {
+        "scenario": "Bob, who spends his day watching TV, and his wife, who exercises regularly, are being compared in terms of their likelihood of winning a race.",
+        "statement": "Bob watches TV all day while his wife exercises. His wife would win in a race.",
+        "opposite_statement": "Bob watches TV all day while his wife exercises. Bob would win in a race.",
+        "additional_sentences": [
+            "His wife exercises with a focus on cardio and endurance training.",
+            "Bob leads a sedentary lifestyle in comparison to his wife, which generally leads to less physical conditioning and stamina."
+        ]
+    },
+    {
+        "scenario": "Comparing the amount of yarn required to knit a blanket and a dishtowel.",
+        "statement": "It usually takes more yarn to knit a blanket than a dishtowel.",
+        "opposite_statement": "It usually takes more yarn to knit a dishtowel than a blanket.",
+        "additional_sentences": [
+            "The dishtowel knitting pattern required is very thick or layered compared to that of the blanket.",
+            "The dishtowel is three-dimensional with multiple layered pattern sections, while the blanket is flat and single-layered."
+        ]
+    },
+    {
+        "scenario": "Comparing the difficulty of jumping into a pile of leaves versus jumping into a pile of sticks.",
+        "statement": "Jumping into a pile of leaves is harder than jumping into a pile of sticks.",
+        "opposite_statement": "Jumping into a pile of leaves is easier than jumping into a pile of sticks.",
+        "additional_sentences": [
+            "Leaves tend to form a layer that is more compressible and elastic, providing a softer landing.",
+            "Leaves in the pile are dry and crisp."
+        ]
+    },
+    {
+        "scenario": "Comparing the ease of jumping over a bed and jumping over a couch.",
+        "statement": "It is easier to jump over the bed than over the couch.",
+        "opposite_statement": "It is easier to jump over the couch than over the bed.",
+        "additional_sentences": [
+            "The bed has a lower height than the couch.",
+            "The bed's design is much lower to the ground compared to the couch."
+        ]
+    },
+    {
+        "scenario": "Comparing the ease of jumping over a couch and a bed.",
+        "statement": "It is easier to jump over the couch than over the bed.",
+        "opposite_statement": "It is easier to jump over the bed than over the couch.",
+        "additional_sentences": [
+            "The couch is positioned in a wider space allowing for a run-up.",
+            "The couch is low-seated with a narrow width as compared to the bed.",
+            "The bed is lower than the couch.",
+            "The bed is located in an open space with plenty of room to approach and land.",
+            "The couch is lower in height than the bed."
+        ]
+    },
+    {
+        "scenario": "Comparing the effectiveness of a microscope and a magnifying glass for examining skin flakes.",
+        "statement": "A microscope is better to look at skin flakes than a magnifying glass.",
+        "opposite_statement": "A magnifying glass is better to look at skin flakes than a microscope.",
+        "additional_sentences": [
+            "The viewer has limitations in using complex equipment, such as a microscope, making a magnifying glass more user-friendly.",
+            "Skin flakes often contain patterns or details that are too small to view with the naked eye or a simple magnifying glass.",
+            "We do not require extremely detailed or high-resolution viewing of the skin flakes.",
+            "Microscopes can use different techniques such as bright field, dark field, phase contrast or fluorescence to provide greater details.",
+            "You are in a setting (e.g., outdoor, field trip) where it is impractical or impossible to use a microscope.",
+            "You want to study the skin flakes at a cellular level."
+        ]
+    },
+    {
+        "scenario": "Comparing the usefulness of a pair of pliers and a hammer as bottle openers.",
+        "statement": "A pair of pliers is less handy to use as a bottle opener than a hammer is.",
+        "opposite_statement": "A pair of pliers is more handy to use as a bottle opener than a hammer is.",
+        "additional_sentences": [
+            "The pliers have a built-in bottle opening feature.",
+            "The hammer has a claw end that is well suited for levering off a bottle cap.",
+            "The pair of pliers has a curved jaw which can be used to grip the cap of the bottle.",
+            "The hammer has a claw end, which could help to pry off bottle caps.",
+            "The hammer has been customized with certain features that aid in the whole process of opening bottles.",
+            "The handle of the pliers is slender and hard to grip."
+        ]
+    },
+    {
+        "scenario": "In a situation where there is no power supply, the ease of reading a book during the day versus at night is being considered.",
+        "statement": "Where there is no power supply, it is easier to read a book during the day than at night.",
+        "opposite_statement": "Where there is no power supply, it is easier to read a book at night than during the day.",
+        "additional_sentences": [
+            "You don't have alternative sources of light, like candles or battery-powered lamps.",
+            "The reading is taking place outdoors under a clear, starlit sky or a full moon.",
+            "The location is somewhere outdoors where you can take advantage of the natural light during the day.",
+            "You don't have any portable light-emitting devices like flashlights or candles.",
+            "You're in a place that experiences polar nights, where the sun doesn't rise for more than 24 hours.",
+            "You are located in an area where night skies are particularly dark due to the absence of urban or city light pollution."
+        ]
+    },
+    {
+        "scenario": "In the absence of a bed, the choice between using a bathrobe or a pile of leaves as a makeshift blanket is being considered.",
+        "statement": "If you don't have a bed, it would be better to use a bathrobe as a blanket rather than a pile of leaves.",
+        "opposite_statement": "If you don't have a bed, it would be better to use a pile of leaves as a blanket rather than a bathrobe.",
+        "additional_sentences": [
+            "The pile of leaves you have access to is large and the leaves are well-dried.",
+            "The bathrobe you have is thin and not designed for warmth."
+        ]
+    },
+    {
+        "scenario": "It begins to rain, and the decision of whether to drive at 40 mph or 60 mph on a 50 mph limit highway is being considered.",
+        "statement": "It starts to rain so it would be better to drive at 40 mph rather than 60 mph on the 50 mph limit highway.",
+        "opposite_statement": "It starts to rain so it would be better to drive at 60 mph rather than 40 mph on the 50 mph limit highway.",
+        "additional_sentences": [
+            "Severe weather conditions may result in traffic authorities advising slower speeds on highways.",
+            "The road is notably slick when wet due to lack of proper surface texture.",
+            "Rainy conditions can cause reduced visibility on the road.",
+            "Wet roads can cause vehicles to hydroplane, particularly at higher speeds."
+        ]
+    },
+    {
+        "scenario": "It is currently midnight, and a decision is being made between doing yoga or going for a run.",
+        "statement": "Given that it's already midnight, it's better to do yoga rather than go for a run.",
+        "opposite_statement": "Given that it's already midnight, it's better to go for a run rather than do yoga.",
+        "additional_sentences": [
+            "Noise restrictions are in place in your apartment complex during the night.",
+            "You live in an apartment with downstairs neighbors, and running could create noise."
+        ]
+    },
+    {
+        "scenario": "Jane lives next door to her school and is considering whether it is more convenient to use a car or walk to school.",
+        "statement": "It's more convenient for Jane to use a car to go to school which is next door to her house than to walk.",
+        "opposite_statement": "It's more convenient for Jane to walk to school which is next door to her house than to use a car.",
+        "additional_sentences": [
+            "Jane's health condition requires reduced physical activity.",
+            "Jane needs to transport heavy or bulky items to school that would be cumbersome to carry on foot."
+        ]
+    },
+    {
+        "scenario": "Jennifer, who prioritizes hygiene, is deciding between taking baths or showers.",
+        "statement": "Jennifer wants to stay as hygienic as possible, so she takes baths instead of showers.",
+        "opposite_statement": "Jennifer wants to stay as hygienic as possible, so she takes showers instead of baths.",
+        "additional_sentences": [
+            "Jennifer has read a study that indicates showers are more hygienic than baths.",
+            "Jennifer understands that showers efficiently rinse off dirt and sweat.",
+            "Jennifer spends more time in a bath scrubbing and ensuring she's clean compared to a quick shower.",
+            "Jennifer has read research suggesting that showering tends to be more hygienic than bathing because the water continuously drains away, rather than sitting stagnant as you bathe.",
+            "Jennifer's bath routine includes using antibacterial soap and exfoliating regularly.",
+            "Jennifer realizes standing water in baths could harbor bacteria or germs."
+        ]
+    },
+    {
+        "scenario": "Jennifer, who prioritizes hygiene, is deciding between taking showers or baths.",
+        "statement": "Jennifer wants to stay as hygienic as possible, so she takes showers instead of baths.",
+        "opposite_statement": "Jennifer wants to stay as hygienic as possible, so she takes baths instead of showers.",
+        "additional_sentences": [
+            "Jennifer uses special bath additives, like antibacterial solutions or essential oils, while taking a bath.",
+            "Jennifer spends more time soaking in the bath, allowing for a more comprehensive cleaning process."
+        ]
+    },
+    {
+        "scenario": "Joe is planning a picnic date in the park and is considering the likelihood of rain.",
+        "statement": "Joe wants to take his date on a picnic in the park. Joe is more likely to go on the date when there is a 50% chance of rain than a 20% chance of rain.",
+        "opposite_statement": "Joe wants to take his date on a picnic in the park. Joe is more likely to go on the date when there is a 20% chance of rain than a 50% chance of rain.",
+        "additional_sentences": [
+            "Joe believes that a slight chance of rain might make the picnic more romantic or fun.",
+            "Joe prefers unique and memorable dates; an unexpected change like a rain shower could create a more adventurous and memorable experience."
+        ]
+    },
+    {
+        "scenario": "John is attempting to break a slab of concrete and is comparing the ease of breaking it using different weights of sledgehammers.",
+        "statement": "John found it easier to break the slab of concrete with a 5 pound sledgehammer than a 10 pound sledgehammer.",
+        "opposite_statement": "John found it easier to break the slab of concrete with a 10 pound sledgehammer than a 5 pound sledgehammer.",
+        "additional_sentences": [
+            "The slab of concrete is small or does not require a significant amount of force to break.",
+            "Possibly, the technique John uses to break concrete is more effective with a lighter sledgehammer.",
+            "John has better control over a 5 pound sledgehammer.",
+            "The type of concrete is brittle and doesn't require much force to break.",
+            "John feels comfortable with a 5 pound sledgehammer due to previous experience."
+        ]
+    },
+    {
+        "scenario": "John is attempting to break a slab of concrete and is comparing the ease of using a 10 pound sledgehammer versus a 5 pound sledgehammer.",
+        "statement": "John found it easier to break the slab of concrete with a 10 pound sledgehammer than a 5 pound sledgehammer.",
+        "opposite_statement": "John found it easier to break the slab of concrete with a 5 pound sledgehammer than a 10 pound sledgehammer.",
+        "additional_sentences": [
+            "The slab of concrete is thick and heavily reinforced.",
+            "John has good physical strength and endurance."
+        ]
+    },
+    {
+        "scenario": "John, who has gained weight, is making a decision about how often to eat out.",
+        "statement": "John gained some weight so he decided to eat out five times a week instead of three.",
+        "opposite_statement": "John gained some weight so he decided to eat out three times a week instead of five.",
+        "additional_sentences": [
+            "The restaurants John usually dines at mainly serve deep-fried or fast food options.",
+            "John has started to cook healthy meals at home.",
+            "The meals that John typically orders when he eats out are high in calories.",
+            "John is replacing his restaurant meals with healthier, home-cooked options.",
+            "John's doctor advised him to change his eating habits."
+        ]
+    },
+    {
+        "scenario": "Katy is considering what treat to give her dog, knowing that dogs cannot eat chocolate.",
+        "statement": "Since dogs can't eat chocolate, katy gave her dog a milk bone instead of a hershey bar.",
+        "opposite_statement": "Since dogs can't eat chocolate, Katy gave her dog a Hershey bar instead of a milk bone.",
+        "additional_sentences": [
+            "Katy has previously mentioned that she prefers to give her dog Milk-Bone treats because they're specifically formulated for dogs.",
+            "Katy has a supply of safe dog treats, such as milk bones, on hand.",
+            "Katy prioritizes her dog's health and well-being.",
+            "Katy is a responsible pet owner who often researches the best diet for her dog."
+        ]
+    },
+    {
+        "scenario": "Opening a taped box and determining the most useful tool for the task is being discussed.",
+        "statement": "When you need to open a taped box, it would be more useful to use an ice pick than a spatula.",
+        "opposite_statement": "When you need to open a taped box, it would be more useful to use a spatula than an ice pick.",
+        "additional_sentences": [
+            "A spatula's edges aren't typically sharp enough to cut through tape.",
+            "The tape on the box is wide and heavily applied, covering a significant portion of the box opening.",
+            "The tape used is extremely thick and robust.",
+            "The box is large and heavily taped from all sides."
+        ]
+    },
+    {
+        "scenario": "Pat is considering whether they would encounter more people at the gym or at the park during January in New York.",
+        "statement": "It was January in New York so Pat knew that he would see more people in the gym rather than at the park.",
+        "opposite_statement": "It was January in New York so Pat knew that he would see more people at the park rather than in the gym.",
+        "additional_sentences": [
+            "A popular winter festival or event is taking place at the park.",
+            "Most parks in New York City reduce their operating hours in winter.",
+            "Many gyms in New York launch promotional campaigns in January to encourage people to sign up.",
+            "The park near Pat's house is a popular location for winter outdoor activities such as sledding or ice skating.",
+            "January in New York is typically cold with inclement weather, making outdoor activities less desirable."
+        ]
+    },
+    {
+        "scenario": "Phillips, who has a fear of heights, is choosing between two adrenaline-filled activities - racing and skydiving.",
+        "statement": "Phillips is terrified of heights. He would prefer racing to skydiving.",
+        "opposite_statement": "Phillips is terrified of heights. He would prefer skydiving to racing.",
+        "additional_sentences": [
+            "Phillips suffers from motion sickness in rapid vertical movements but not so much in horizontal ones.",
+            "Phillips has previously displayed an exaggerated fear response when at high altitudes but has shown excitement when discussing racing."
+        ]
+    },
+    {
+        "scenario": "Phillips, who has a fear of heights, is choosing between two adrenaline-filled activities - skydiving and racing.",
+        "statement": "Phillips is terrified of heights. He would prefer skydiving to racing.",
+        "opposite_statement": "Phillips is terrified of heights. He would prefer racing to skydiving.",
+        "additional_sentences": [
+            "Phillips was once involved in an incident at a high altitude which may have developed his fear of heights.",
+            "Phillips wants to overcome his fear of heights and perceives skydiving as the ultimate way to confront his phobia.",
+            "Phillips recently completed training for a tandem skydive.",
+            "Phillips has always expressed great interest in motor sports and has spent considerable time engaging in racing activities."
+        ]
+    },
+    {
+        "scenario": "Sally has a sleeping baby and is deciding whether to use headphones or speakers.",
+        "statement": "When the baby is sleeping it is better for Sally to use her headphones than her speakers.",
+        "opposite_statement": "When the baby is sleeping it is better for Sally to use her speakers than her headphones.",
+        "additional_sentences": [
+            "The baby's room is in close proximity to Sally's sound system.",
+            "The baby is a light sleeper and wakes up easily due to minor sounds."
+        ]
+    },
+    {
+        "scenario": "Sally has an infant who is asleep next to her, and she is deciding between putting on the stereo or reading a book.",
+        "statement": "Since Sally's infant was asleep next to her, it would make more sense for her to put on the stereo than to read a book.",
+        "opposite_statement": "Since Sally's infant was asleep next to her, it would make more sense for her to read a book than to put on the stereo.",
+        "additional_sentences": [
+            "Sally's infant is a light sleeper and is easily awakened by sudden or loud sounds.",
+            "Sally's infant is highly sensitive to noise while asleep."
+        ]
+    },
+    {
+        "scenario": "Sally is considering the weight of the bowling ball she should use for bowling.",
+        "statement": "A seven pound bowling ball is too heavy for Sally to bowl with, so she will need a ten pound ball.",
+        "opposite_statement": "A seven pound bowling ball is too heavy for Sally to bowl with, so she will need a lighter ball.",
+        "additional_sentences": [
+            "Sally is new to bowling, thus lacking the strength and technique that can be developed over time.",
+            "Sally has previously shown discomfort using bowling balls of similar or greater weight.",
+            "Sally has a recent injury on her arm which affects her strength and ability to lift heavy objects.",
+            "Sally has a smaller build and struggles with lifting heavy objects."
+        ]
+    },
+    {
+        "scenario": "Sally is considering the weight of the bowling ball she should use for bowling.",
+        "statement": "A ten pound bowling ball is too heavy for Sally to bowl with, so she will need a seven pound ball.",
+        "opposite_statement": "A ten pound bowling ball is too heavy for Sally to bowl with, so she will need a heavier ball than a seven pound ball.",
+        "additional_sentences": [
+            "Sally has a small frame or physique which might limit her physical strength.",
+            "Sally's bowling coach has recommended that she try a ball that is heavier than seven pounds, but lighter than ten pounds.",
+            "Sally has a pre-existing injury that affects her arm strength.",
+            "Sally has previously used an eight pound ball with ease and has expressed the desire to gradually increase the weight.",
+            "Sally has been building her strength and has been practicing with a nine-pound ball.",
+            "Sally has previously complained about wrist or arm strain while using ten-pound bowling balls.",
+            "Sally's physical trainer or bowling coach recommends a seven pound ball for her skill level and physical condition.",
+            "Sally is new to bowling and finds it challenging to maintain control of the heavier ten-pound bowling ball.",
+            "Sally has previously experienced arm or shoulder discomfort when using heavier bowling balls.",
+            "Sally is a beginner at bowling and is not yet accustomed to heavier balls."
+        ]
+    },
+    {
+        "scenario": "Sonja's bike is broken, and she is considering alternative modes of transportation to get to school.",
+        "statement": "If Sonja broke her bike, it would be better to ride a horse than run to school.",
+        "opposite_statement": "If Sonja broke her bike, it would be better to run to school than ride a horse.",
+        "additional_sentences": [
+            "Sonja has access to a horse and is comfortable with horse riding.",
+            "Sonja is experienced in horse riding."
+        ]
+    },
+    {
+        "scenario": "Sonja's bike is broken, and she is considering alternative modes of transportation to get to school.",
+        "statement": "If Sonja broke her bike, it would be better to run to school than ride a horse.",
+        "opposite_statement": "If Sonja broke her bike, it would be better to ride a horse than run to school.",
+        "additional_sentences": [
+            "Sonja's school is located within a short distance from her home.",
+            "Sonja is an experienced runner but has never ridden a horse before.",
+            "Sonja already has access to a horse and is comfortable and proficient in horse riding.",
+            "Sonja has access to a horse and is an experienced rider."
+        ]
+    },
+    {
+        "scenario": "The availability of a flyswatter is being considered as a means to swat a fly.",
+        "statement": "If you don't have a flyswatter you could swat the fly with a newspaper.",
+        "opposite_statement": "If you don't have a flyswatter, you couldn't swat the fly with a newspaper.",
+        "additional_sentences": [
+            "You have experience or skill in using a newspaper as a tool to kill or remove flies.",
+            "The physical characteristics of a newspaper, being lightweight and with large flat surface, can serve as an effective substitute for a flyswatter.",
+            "The fly is located in a place where a newspaper could reach, but a flyswatter might not.",
+            "Newspapers have a relatively broad surface area which can increase the chance of hitting the fly."
+        ]
+    },
+    {
+        "scenario": "The availability of parking spaces for bikes and cars at a local park is being compared.",
+        "statement": "There is more parking available for bikes than cars at a local park.",
+        "opposite_statement": "There is more parking available for cars than bikes at a local park.",
+        "additional_sentences": [
+            "The local park has a vast dedicated car parking lot and visibly fewer spots for bike racks.",
+            "Bike-riding is a significant part of the culture in the surrounding community.",
+            "The local park is located in an area with high bike usage rates.",
+            "The local park has a dedicated multi-level bike parking facility.",
+            "The local park primarily encourages eco-friendly transportation.",
+            "The park management has allocated a larger space for car parking due to higher revenue from car parking fees."
+        ]
+    },
+    {
+        "scenario": "The availability of parking spaces for cars and bikes at a local park is being compared.",
+        "statement": "There is more parking available for cars than bikes at a local park.",
+        "opposite_statement": "There is more parking available for bikes than cars at a local park.",
+        "additional_sentences": [
+            "The local park is frequently visited by families who often use cars for transportation.",
+            "The layout of the park prioritises large parking spaces, often suitable for cars."
+        ]
+    },
+    {
+        "scenario": "The availability of rice is being considered as a factor in determining the better alternative to use in soup - whipped cream or pasta.",
+        "statement": "If rice is not available, it is better to use pasta in your soup than whipped cream.",
+        "opposite_statement": "If rice is not available, it is better to use whipped cream in your soup than pasta.",
+        "additional_sentences": [
+            "You are trying to give your soup a richer, creamier texture.",
+            "The soup you're making is a dessert soup.",
+            "You are aiming for a creamy and lighter consistency for your soup.",
+            "The soup you are preparing is savory rather than sweet.",
+            "You're trying to mimic the creaminess that the rice would have added to the soup.",
+            "You are trying to create a filling and hearty soup.",
+            "The soup you're making is a traditional savory soup.",
+            "The soup is a dessert soup, which may taste better with sweet ingredients."
+        ]
+    },
+    {
+        "scenario": "The behavior of drivers in a school zone is being discussed, specifically whether they should slow down or speed up.",
+        "statement": "When people are driving in a school zone they should slow down instead of speeding up.",
+        "opposite_statement": "When people are driving in a school zone they should speed up instead of slowing down.",
+        "additional_sentences": [
+            "Many jurisdictions have laws requiring drivers to slow down in school zones during certain hours.",
+            "School buses and other vehicles frequent school zones more often, often leading to more stop-and-go traffic."
+        ]
+    },
+    {
+        "scenario": "The best method for conditioning a baseball glove is being discussed, comparing the use of special oil and mayonnaise.",
+        "statement": "To condition a baseball glove, it's better to use special oil than mayonnaise.",
+        "opposite_statement": "To condition a baseball glove, it's better to use mayonnaise than special oil.",
+        "additional_sentences": [
+            "The special oil is specifically formulated to preserve the leather and maintaining its elasticity, which is crucial for a baseball glove.",
+            "Special oil has been specifically designed for conditioning leather.",
+            "Many professional baseball players and gear experts recommend the usage of special oil over household items."
+        ]
+    },
+    {
+        "scenario": "The capacity of a bench is being discussed, based on the fact that three people can fit comfortably on it.",
+        "statement": "Since three people can fit comfortably on the bench, so can a dating couple.",
+        "opposite_statement": "Since three people can fit comfortably on the bench, a dating couple cannot.",
+        "additional_sentences": [
+            "The dating couple prefers to have a certain amount of personal space between themselves and others.",
+            "The dating couple prefers more personal space therefore will not be comfortable on a bench already accommodating three people."
+        ]
+    },
+    {
+        "scenario": "The choice between a guard dog and a guard cat is being considered for home security purposes.",
+        "statement": "A guard dog is a better option then a guard cat to keep your house safe.",
+        "opposite_statement": "A guard cat is a better option than a guard dog to keep your house safe.",
+        "additional_sentences": [
+            "The household wants a quieter guard pet due to noise restrictions in a residential area.",
+            "The house owner or other occupants have allergies to dogs.",
+            "The household has members that are allergic to dogs."
+        ]
+    },
+    {
+        "scenario": "The choice between using grass or hay as tinder is being evaluated.",
+        "statement": "It is better to use grass instead of hay as tinder.",
+        "opposite_statement": "It is better to use hay instead of grass as tinder.",
+        "additional_sentences": [
+            "The grass you have access to is a variety that is specifically known for being highly flammable.",
+            "The grass being used is dry and highly combustible.",
+            "The hay at disposal is damp or has high moisture content.",
+            "The grass is dry and brittle, perfect conditions for creating a spark."
+        ]
+    },
+    {
+        "scenario": "The choice of clothing for cold weather is being considered, comparing the benefits of wearing a sweatshirt versus a coat.",
+        "statement": "It is better to wear a sweatshirt than a coat when it is cold.",
+        "opposite_statement": "It is better to wear a coat than a sweatshirt when it is cold.",
+        "additional_sentences": [
+            "You plan on moving around a lot and generating heat through physical activity.",
+            "Your planned activities in the cold require a lot of physical movement.",
+            "The coat is insulated with thermal padding or down feathers.",
+            "The temperature is cold but not freezing, and there's no significant wind.",
+            "The coat is windproof and waterproof."
+        ]
+    },
+    {
+        "scenario": "The choice of clothing on a hot day is being considered, with the options being a jacket or a tank top.",
+        "statement": "On a hot day, it's better to wear a jacket than a tank top.",
+        "opposite_statement": "On a hot day, it's better to wear a tank top than a jacket.",
+        "additional_sentences": [
+            "Tank tops are mostly made of lightweight materials like cotton or polyester that are ideal for hot weather.",
+            "A tank top allows for greater ventilation than a jacket.",
+            "The fabric of a tank top typically doesn't retain heat as much as jacket materials do.",
+            "Wearing lighter clothing like a tank top can increase the body's ability to release heat.",
+            "Most jackets are designed for warmth and may not wick sweat as effectively as a tank top.",
+            "Tank tops are typically made from lightweight materials which are breathable.",
+            "Sun exposure can be intense on hot days, clothing like tank tops provide less coverage and hence, less heat absorption.",
+            "A tank top generally allows for better airflow and less insulation than a jacket."
+        ]
+    },
+    {
+        "scenario": "The choice of material for a picnic cloth is being considered, with the options being a bed sheet or shredded paper.",
+        "statement": "At a picnic, it would be better to use a bed sheet than shredded paper for picnic cloth.",
+        "opposite_statement": "At a picnic, it would be better to use shredded paper than a bed sheet for picnic cloth.",
+        "additional_sentences": [
+            "The shredded paper being used is resistant to moisture and spillage.",
+            "The picnic location is windy, and weighted shredded paper could stay in place better than a lightweight bed sheet."
+        ]
+    },
+    {
+        "scenario": "The choice of whether to use a paper bag or a plastic bag inside a trash can is being considered.",
+        "statement": "It is better to put a paper bag inside a trash can than a plastic bag.",
+        "opposite_statement": "It is better to put a plastic bag inside a trash can than a paper bag.",
+        "additional_sentences": [
+            "The waste that is being disposed of is wet or liquid.",
+            "The plastic bag being used is a heavy-duty bag that's capable of holding a larger volume or weight of trash than a paper bag.",
+            "The location promotes eco-friendly practices or the local regulations prefer the use of paper bags over plastic.",
+            "There is a local ordinance prohibiting the use of plastic bags because of their negative environmental impact.",
+            "You often deal with heavy or overweight trash items."
+        ]
+    },
+    {
+        "scenario": "The claim is being made that a synthetic gold ring will produce a green circle when it comes into contact with water.",
+        "statement": "A synthetic gold ring will cause a green circle to form around your finger when you get it wet.",
+        "opposite_statement": "A synthetic gold ring will not cause a green circle to form around your finger when you get it wet.",
+        "additional_sentences": [
+            "The synthetic gold ring was not well-coated.",
+            "The wearer has a high body acidity level, and sweat excreted could interact with the ring.",
+            "The synthetic gold ring is made from quality control checked water-resistant materials.",
+            "You don't have a specific type of skin chemistry that reacts to different kinds of metals including synthetic ones.",
+            "The synthetic gold ring contains other metals which oxidize and cause a green discoloration.",
+            "The synthetic gold ring is made of low-quality metals that react with the skin upon moisture exposure."
+        ]
+    },
+    {
+        "scenario": "The comfort level of sitting on a carpet floor versus a tile floor is being compared.",
+        "statement": "It's more comfortable to sit on a carpet floor rather than a tile floor.",
+        "opposite_statement": "It's more comfortable to sit on a tile floor rather than a carpet floor.",
+        "additional_sentences": [
+            "You are sitting on the floor with a comfortable cushion or mat.",
+            "The tile floor is made of a hard, rough material.",
+            "The carpet floor is made with a plush, thick pile."
+        ]
+    },
+    {
+        "scenario": "The comfort level of sitting on a tile floor versus a carpet floor is being compared.",
+        "statement": "It's more comfortable to sit on a tile floor rather than a carpet floor.",
+        "opposite_statement": "It's more comfortable to sit on a carpet floor rather than a tile floor.",
+        "additional_sentences": [
+            "You are allergic to dust or other allergens that may be trapped in carpets.",
+            "The individual has allergies, specifically to dust and mites commonly found in carpets.",
+            "The person prefers soft surfaces due to personal comfort preferences or physical conditions, such as having sensitive skin or conditions affecting the joints.",
+            "The carpet floor is plush and has a soft texture.",
+            "The tile floor is older and not evenly laid out."
+        ]
+    },
+    {
+        "scenario": "The comfort level of sleeping on a couch versus a hard wood floor is being compared.",
+        "statement": "It's more comfortable to sleep on the couch then the hard wood floor.",
+        "opposite_statement": "It's more comfortable to sleep on the hard wood floor than the couch.",
+        "additional_sentences": [
+            "The couch has soft cushions and the backrest acts as excellent support.",
+            "Sleeping on the couch offers support and elevation."
+        ]
+    },
+    {
+        "scenario": "The comfort level of using a throw or a quilt to rest one's head while lying on the couch is being considered.",
+        "statement": "When lying on the couch it is more comfortable to use a throw than a quilt to rest my head.",
+        "opposite_statement": "When lying on the couch it is more comfortable to use a quilt than a throw to rest my head.",
+        "additional_sentences": [
+            "The quilt is made of a warmer and softer material than the throw.",
+            "The quilt offers more cover in case you need to cover your body as well.",
+            "The thickness and fluffiness of the quilt provide ample cushioning compared to the throw being made of light material.",
+            "The quilt is made from a softer and more comfortable fabric than the throw."
+        ]
+    },
+    {
+        "scenario": "The comparison is being made between driving and running as means of transportation to the store.",
+        "statement": "It's faster to drive to the store instead of run.",
+        "opposite_statement": "It's faster to run to the store instead of drive.",
+        "additional_sentences": [
+            "The route to the store involves a high-speed highway.",
+            "There is a shortcut through a park or pedestrian zone that cars can't use.",
+            "There's typically high traffic congestion on the route to the store during the time you plan to go.",
+            "There's limited foot traffic and optimized traffic flow on the route to the store."
+        ]
+    },
+    {
+        "scenario": "The comparison is being made between running and driving a car to determine the faster mode of transportation to the store.",
+        "statement": "It's faster to run to the store instead of drive a car.",
+        "opposite_statement": "It's faster to drive a car instead of run to the store.",
+        "additional_sentences": [
+            "There are available shortcuts to the store for pedestrians that aren't accessible by car.",
+            "There is a shortage of parking spots near the store."
+        ]
+    },
+    {
+        "scenario": "The comparison is being made between the harmfulness of UV rays from the sun and UV rays from a tanning bed.",
+        "statement": "UV rays from the sun are more harmful than a tanning bed.",
+        "opposite_statement": "UV rays from a tanning bed are more harmful than the sun.",
+        "additional_sentences": [
+            "Regular use of tanning beds at a young age significantly increases the risk of developing melanoma.",
+            "The skin is exposed to both UVA and UVB rays in a tanning bed.",
+            "Tanning beds often emit concentrated UV rays at a higher intensity and for a prolonged period than normal sun exposure.",
+            "Some tanning beds primarily emit UVA rays which are known to penetrate deeper into our skin compared to UVB rays from the sun.",
+            "Standard tanning beds often emit a higher concentration of UVA rays compared to the sun."
+        ]
+    },
+    {
+        "scenario": "The comparison is being made between the harmfulness of a tanning bed and UV rays from the sun.",
+        "statement": "A tanning bed is more harmful than UV rays from the sun.",
+        "opposite_statement": "A tanning bed is less harmful than UV rays from the sun.",
+        "additional_sentences": [
+            "The time of usage of the tanning bed is significantly shorter than the time of exposure to sunlight.",
+            "Tanning beds often emit UV rays at a much higher concentration than those obtained from sunlight.",
+            "You utilize a tanning bed with an effective timer, ensuring the duration and frequency of UV exposure are controlled.",
+            "Tanning beds often produce greater concentrations of UVA radiation, which penetrates deeper into the skin and can cause long-term damage."
+        ]
+    },
+    {
+        "scenario": "The comparison is being made between the speed of reaching a destination by walking versus using a car.",
+        "statement": "It's faster to get where you're going in a car rather than walking.",
+        "opposite_statement": "It's faster to get where you're going by walking rather than in a car.",
+        "additional_sentences": [
+            "The destination is particularly far from the current location.",
+            "There is no pedestrian-friendly infrastructure or public transportation available in your area."
+        ]
+    },
+    {
+        "scenario": "The comparison is being made between the speed of traveling by car and walking to reach a destination.",
+        "statement": "It's slower to get where you're going in a car rather than walking.",
+        "opposite_statement": "It's faster to get where you're going in a car rather than walking.",
+        "additional_sentences": [
+            "The destination is in a highly congested area where traffic jams are frequent.",
+            "There is a lack of parking spaces near the destination, resulting in extended time spent finding a parking spot.",
+            "Traffic congestion is heavy and consistent, causing significantly delayed travel times if you're driving."
+        ]
+    },
+    {
+        "scenario": "The comparison is being made between writing on the sidewalk with charcoal and writing with a marker.",
+        "statement": "It is better to write on the sidewalk with charcoal than a marker.",
+        "opposite_statement": "It is better to write on the sidewalk with a marker than charcoal.",
+        "additional_sentences": [
+            "The charcoal is easier to remove than the ink from a marker.",
+            "You need to create art or messages on the sidewalk that can be easily erased later."
+        ]
+    },
+    {
+        "scenario": "The convenience of buying vegetables at the grocery store versus growing them at home is being compared.",
+        "statement": "It is more convenient to buy vegetables at the grocery store than it is to grow your own vegetables.",
+        "opposite_statement": "It is more convenient to grow your own vegetables than it is to buy vegetables at the grocery store.",
+        "additional_sentences": [
+            "You have a large backyard with fertile and well-irrigated soil.",
+            "The user lives in an urban setting with easier access to grocery stores than garden space.",
+            "You live relatively far away from the nearest grocery store.",
+            "Your work or personal schedule is particularly busy, limiting your free time.",
+            "You live in an urban area with limited space for gardening."
+        ]
+    },
+    {
+        "scenario": "The convenience of obtaining a medicinal permit is being compared to the convenience of national relocation.",
+        "statement": "A medicinal permit is more convenient than national relocation.",
+        "opposite_statement": "National relocation is more convenient than a medicinal permit.",
+        "additional_sentences": [
+            "Securing a medicinal permit aligns more with your comfort level and lifestyle compared to relocation.",
+            "The cost of acquiring a medicinal permit is significantly lower than that of national relocation."
+        ]
+    },
+    {
+        "scenario": "The convenience of using a sock or a fitted sheet as a makeshift blanket is being considered when feeling cold in bed.",
+        "statement": "If you are cold in bed, it is more convenient to use a sock as a blanket than a fitted sheet.",
+        "opposite_statement": "If you are cold in bed, it is more convenient to use a fitted sheet as a blanket than a sock.",
+        "additional_sentences": [
+            "The sock is very large and made of insulating material.",
+            "The sock you possess is significantly oversized and thick."
+        ]
+    },
+    {
+        "scenario": "The convenience of using a sponge versus a brush for washing a car is being compared.",
+        "statement": "It's less convenient to use a sponge than a brush when washing your car.",
+        "opposite_statement": "It's more convenient to use a sponge than a brush when washing your car.",
+        "additional_sentences": [
+            "The sponge is attached to a handle giving a longer reach when washing the car.",
+            "Brushes, especially those with long handles, can reach car areas that might not be easily reached with a sponge.",
+            "You want to clean tightly-spaced areas of your car where a sponge might not fit.",
+            "The car's surface contains delicate paint or polishing that a brush may damage."
+        ]
+    },
+    {
+        "scenario": "The decision is being made on whether it is preferable to wake someone up an hour before their intended wake-up time or to let them wake up naturally to their alarm.",
+        "statement": "It is better to wake someone up an hour before schedule than to allow them to wake up to their alarm.",
+        "opposite_statement": "It is better to allow someone to wake up to their alarm than to wake them up an hour before schedule.",
+        "additional_sentences": [
+            "The individual has an important early meeting or event that they forgot to take into account when setting their alarm.",
+            "There is a change in the person's environment that requires adaptation (like new sunlight schedule in summers)."
+        ]
+    },
+    {
+        "scenario": "The difficulty level of cooking a turkey is being compared between cooking it in pieces and cooking it whole.",
+        "statement": "It is harder to cook turkey in pieces than to cook it in whole.",
+        "opposite_statement": "It is easier to cook turkey in pieces than to cook it whole.",
+        "additional_sentences": [
+            "The turkey is sizeable and hard to maneuver when cut into pieces.",
+            "You have to manage cooking times differently for different parts of the turkey.",
+            "The pieces of the turkey require different cooking times to reach the right temperatures."
+        ]
+    },
+    {
+        "scenario": "The difficulty of cooking bacon and chicken is being compared, specifically when cooking them off of a forest.",
+        "statement": "It is harder to cook bacons off of a forest than a chicken.",
+        "opposite_statement": "It is harder to cook chicken off of a forest than bacons.",
+        "additional_sentences": [
+            "The forest might lack the suitable equipment necessary for food preparation, especially for something like chicken which generally requires consistent heat for a longer period of time to properly cook.",
+            "Chicken requires more preparation such as removing feathers and guts before cooking compared to bacon.",
+            "Cooking bacon requires more careful timing and attention than chicken.",
+            "To cook bacon, it needs to be placed on a flat hot surface while in a forest you're more likely to deal with open fires or makeshift grills.",
+            "Wild chicken might be more difficult to catch and prepare compared to easily portable packaged bacon.",
+            "The chicken is whole and needs to be portioned before being cooked."
+        ]
+    },
+    {
+        "scenario": "The difficulty of either climbing over or walking under a six-foot-high bar is being compared.",
+        "statement": "It is easier to climb over a bar that is six feet high than it is to walk under it.",
+        "opposite_statement": "It is easier to walk under a bar that is six feet high than it is to climb over it.",
+        "additional_sentences": [
+            "The ground under the bar is uneven or filled with obstacles, making walking under it a more challenging task.",
+            "The person attempting to pass under the bar has a physical condition that impairs their ability to bend down or crouch.",
+            "The ground under the bar is uneven or obstructed."
+        ]
+    },
+    {
+        "scenario": "The difficulty of lifting a bowling ball compared to an empty water bottle is being evaluated.",
+        "statement": "A bowling ball is more difficult to lift than an empty water bottle is.",
+        "opposite_statement": "A bowling ball is less difficult to lift than an empty water bottle is.",
+        "additional_sentences": [
+            "The water bottle is exceptionally large or awkwardly shaped, making it challenging to grasp.",
+            "The person attempting to lift the objects has no bodily impairments.",
+            "The empty water bottle is made of lightweight plastic and holds no water.",
+            "The empty water bottle is crushed or twisted in a way that allows for minimal or uncomfortable grip.",
+            "The bowling ball is made of dense material such as a hard rubber or a composite of materials like resin, particle, and urethane.",
+            "Bowling balls are made from dense materials like plastic, urethane, reactive resin, or particle (proactive)."
+        ]
+    },
+    {
+        "scenario": "The difficulty of lifting objects above your head is being compared between two scenarios - lifting two jars of jelly and lifting a mattress.",
+        "statement": "It is much more difficult to lift two jars of jelly above your head than it is to lift a mattress above your head.",
+        "opposite_statement": "It is much more difficult to lift a mattress above your head than it is to lift two jars of jelly above your head.",
+        "additional_sentences": [
+            "The jars of jelly are filled with a dense material making them unusually heavy.",
+            "The jars of jelly are considerably larger in size than a standard jar, whereas the mattress is of a compact and lightweight design.",
+            "The jars of jelly are filled with a dense and heavy substance that weighs more than the mattress.",
+            "The two jars of jelly are made of a heavy material, while the mattress is remarkably lightweight."
+        ]
+    },
+    {
+        "scenario": "The difficulty of running uphill is being compared between running a mile and running ten miles.",
+        "statement": "It's easier to run ten miles uphill than to run a mile uphill.",
+        "opposite_statement": "It's easier to run a mile uphill than to run ten miles uphill.",
+        "additional_sentences": [
+            "Running uphill for longer distances provides you with more time to find a steady pacing that suits you.",
+            "The grade of the ten-mile uphill run is significantly less steep than the grade of the one-mile uphill run.",
+            "The physical fitness of the individual only supports them running shorter distances.",
+            "The individual running has a great deal of experience with shorter uphill runs but largely lacks experience with longer distances."
+        ]
+    },
+    {
+        "scenario": "The difficulty of taming a feral cat and catching a wolf is being compared.",
+        "statement": "It would be harder to tame a feral cat than catch a wolf.",
+        "opposite_statement": "It would be harder to catch a wolf than tame a feral cat.",
+        "additional_sentences": [
+            "Human interaction with wolves is uncommon and usually dangerous.",
+            "Wolves are known for their agility and stealth, making them difficult to capture.",
+            "Catching a wolf would typically require more equipment (such as a trap) and resources (like personnel) than taming a feral cat.",
+            "Feral cats have lived their entire lives in the wild with minimal human contact, therefore they can be extremely difficult to socialize.",
+            "You have extensive experience in wildlife trapping and handling, particularly with wolves."
+        ]
+    },
+    {
+        "scenario": "The door is not staying shut, and the effectiveness of using a coffee cup or a couch to keep it closed is being considered.",
+        "statement": "If my door won't stay shut, if I put my coffee cup in front of it, it'll be more likely to stay closed than if I put my couch in front of it.",
+        "opposite_statement": "If my door won't stay shut, if I put my couch in front of it, it'll be more likely to stay closed than if I put my coffee cup in front of it.",
+        "additional_sentences": [
+            "The couch is wider and takes up more space than the coffee cup.",
+            "The coffee cup is small and could potentially be knocked over by the door.",
+            "The size of the gap between the door and the floor is small enough for a coffee cup to fit and effectively block the door.",
+            "The size ratio between your door and the coffee cup is suitable enough to create a wedge."
+        ]
+    },
+    {
+        "scenario": "The door is not staying shut, and the effectiveness of using a couch or a coffee cup to keep it closed is being considered.",
+        "statement": "If my door won't stay shut, if I put my couch in front of it, it'll be more likely to stay closed than if I put my coffee cup in front of it.",
+        "opposite_statement": "If my door won't stay shut, if I put my coffee cup in front of it, it'll be more likely to stay closed than if I put my couch in front of it.",
+        "additional_sentences": [
+            "The floor is uneven, making it difficult to maneuver a large item such as a couch before the door.",
+            "The placement of the coffee cup puts it in a favorable position, applying pressure against the door in the right direction."
+        ]
+    },
+    {
+        "scenario": "The ease of carrying a cup is being compared between one person and six people.",
+        "statement": "It would be easier for one person to carry the cup, than it would be for six people to carry the cup.",
+        "opposite_statement": "It would be easier for six people to carry the cup, than it would be for one person to carry the cup.",
+        "additional_sentences": [
+            "The six people attempting to carry the cup do not have good coordination skills.",
+            "The cup in question is small and lightweight.",
+            "The size and weight of the cup are suitable for one person to easily carry.",
+            "The six individuals are in a confined space where they can't all reach the cup.",
+            "In terms of maneuverability, smaller numbers of people carrying an item can be more flexible.",
+            "The cup is small and light enough to be handled by one person."
+        ]
+    },
+    {
+        "scenario": "The ease of changing a lightbulb is being compared between standing on a ladder and standing on a pillow.",
+        "statement": "It is easier to stand on a ladder than a pillow to change a lightbulb.",
+        "opposite_statement": "It is easier to stand on a pillow than a ladder to change a lightbulb.",
+        "additional_sentences": [
+            "The light bulb is located at a low height such as a table lamp.",
+            "The lightbulb that needs changing is positioned at a lower height.",
+            "The user has difficulty maintaining balance on a ladder due to vertigo or physical impairment.",
+            "The person changing the lightbulb has vertigo or fear of heights.",
+            "The lightbulb to be replaced is located at a very low height, like in a table lamp."
+        ]
+    },
+    {
+        "scenario": "The ease of cleaning is being compared between a one-bedroom apartment and a four-bedroom house.",
+        "statement": "It's easier to clean a one-bedroom apartment compared to a four-bedroom house.",
+        "opposite_statement": "It's easier to clean a four-bedroom house compared to a one-bedroom apartment.",
+        "additional_sentences": [
+            "The inhabitants of the four-bedroom house are very tidy and organized.",
+            "The four-bedroom house has a highly efficient automated cleaning system installed.",
+            "The four-bedroom house has a professional cleaning system installed that minimizes manual effort.",
+            "Each room in the four-bedroom house is minimally furnished and clutter-free.",
+            "The four-bedroom house has minimalist decor and fewer belongings compared to a cluttered one-bedroom apartment."
+        ]
+    },
+    {
+        "scenario": "The ease of closing a crab's claw is being compared using a newspaper and a rubber band as tools.",
+        "statement": "It is easier to close a crab's claw with a newspaper than it is with a rubber band.",
+        "opposite_statement": "It is easier to close a crab's claw with a rubber band than it is with a newspaper.",
+        "additional_sentences": [
+            "A rubber band can be slid over the claw, applying a constant pressure to keep it shut.",
+            "A rubber band can be securely fastened around a crab's claw while a newspaper might slip."
+        ]
+    },
+    {
+        "scenario": "The ease of dancing is being compared between dancing with tennis shoes and dancing with high heels.",
+        "statement": "It's easier to dance with tennis shoes rather than high heels.",
+        "opposite_statement": "It's easier to dance with high heels rather than tennis shoes.",
+        "additional_sentences": [
+            "The dance floor is slippery or uneven.",
+            "The dance surface is uneven or slick, making it easy to slip in shoes with less grip."
+        ]
+    },
+    {
+        "scenario": "The ease of either walking under or climbing over a six-foot high bar is being compared.",
+        "statement": "It is easier to walk under a bar that is six feet high than it is to climb over it.",
+        "opposite_statement": "It is easier to climb over a bar that is six feet high than it is to walk under it.",
+        "additional_sentences": [
+            "The individual has difficulty climbing or has a physical restriction.",
+            "The ground under the bar is flat and unobstructed.",
+            "The floor is smooth and level, and there are no other obstacles."
+        ]
+    },
+    {
+        "scenario": "The ease of fitting objects into a coin slot is being compared between a ping pong ball and a paperclip.",
+        "statement": "You can fit a ping pong ball into a coin slot easier than a paperclip.",
+        "opposite_statement": "You can fit a paperclip into a coin slot easier than a ping pong ball.",
+        "additional_sentences": [
+            "The coin slot size is narrower and significantly smaller than the diameter of a ping pong ball.",
+            "The coin slot has a mechanism that only accepts flat, metal objects.",
+            "The coin slot has a small size.",
+            "The paperclip can be bent or adjusted to fit into the coin slot."
+        ]
+    },
+    {
+        "scenario": "The ease of flying a helicopter is being compared between foggy conditions and hot weather.",
+        "statement": "It's easier to fly a helicopter in fog than in hot weather.",
+        "opposite_statement": "It's easier to fly a helicopter in hot weather than in fog.",
+        "additional_sentences": [
+            "The pilot is highly experienced and specialized in flying in foggy conditions.",
+            "The helicopter is particularly designed to operate in low visibility conditions."
+        ]
+    },
+    {
+        "scenario": "The ease of getting a haircut is being compared between using a straight razor and using scissors.",
+        "statement": "It's easier to get a haircut with a straight razor than with scissors.",
+        "opposite_statement": "It's easier to get a haircut with scissors than with a straight razor.",
+        "additional_sentences": [
+            "You are aiming to achieve a very close, sharp haircut.",
+            "The person cutting the hair has expertise in using a straight razor.",
+            "You are getting a fairly traditional haircut that involves a lot of detail and precision.",
+            "You're getting a standard haircut, not a shave or a very short style."
+        ]
+    },
+    {
+        "scenario": "The ease of getting a small dog or a kite to fly in the air is being compared.",
+        "statement": "It's probably easier to get a small dog to fly in the air than a kite",
+        "opposite_statement": "It's probably easier to get a kite to fly in the air than a small dog.",
+        "additional_sentences": [
+            "The kite is being flown by a person who understands the mechanics and technique behind kite flying.",
+            "The kite is made from heavy material, is improperly assembled, or has a poor design.",
+            "Kites are designed to fly and catch wind, unlike dogs.",
+            "You are trying to get your kite or dog airborne in an open area with a strong wind.",
+            "The small dog has been trained to jump high during agility training.",
+            "The kite is specially designed to catch the wind, allowing it to lift off the ground and fly far more readily than a small dog."
+        ]
+    },
+    {
+        "scenario": "The ease of hanging a poster is being compared between a door and a bear.",
+        "statement": "You can hang a poster on a door much easier than you can hang it on a bear.",
+        "opposite_statement": "You can hang a poster on a bear much easier than you can hang it on a door.",
+        "additional_sentences": [
+            "The door is made of a material that's compatible with adhesives or nails, unlike the bear's fur.",
+            "A door offers a relatively smooth flat surface while a bear is quite hairy providing a difficult surface to stick a poster.",
+            "Doors are typically smooth, hard surfaces that are well-suited for hanging objects such as posters."
+        ]
+    },
+    {
+        "scenario": "The ease of inserting one's foot into a cowboy boot or a slipper is being compared.",
+        "statement": "You can insert your foot into a cowboy boot easier than a slipper.",
+        "opposite_statement": "You can insert your foot into a slipper easier than a cowboy boot.",
+        "additional_sentences": [
+            "The cowboy boot has a narrow, closed design around the ankle and does not have a zipper.",
+            "The slipper is open-backed, allowing for easy slide-in access."
+        ]
+    },
+    {
+        "scenario": "The ease of lifting a balloon compared to lifting a book is being considered.",
+        "statement": "It's easier for a person to lift a balloon than to lift a book.",
+        "opposite_statement": "It's easier for a person to lift a book than to lift a balloon.",
+        "additional_sentences": [
+            "The balloon is overfilled or is much larger in size, causing it to be more challenging to grasp firmly.",
+            "The balloon is filled with heavy gas like sulfur hexafluoride."
+        ]
+    },
+    {
+        "scenario": "The ease of lifting a barrel is being compared based on the number of helium balloons attached to it.",
+        "statement": "You can lift a barrel with three hundred helium balloons attached to it much easier than you can lift a barrel with four helium balloons attached to it.",
+        "opposite_statement": "You can lift a barrel with four helium balloons attached to it much easier than you can lift a barrel with three hundred helium balloons attached to it.",
+        "additional_sentences": [
+            "The barrel is particularly lightweight.",
+            "The barrel is extremely lightweight and easily liftable with the help of just a few balloons."
+        ]
+    },
+    {
+        "scenario": "The ease of opening a door is being compared between using a hammer and using a key.",
+        "statement": "It is easier to open a door with a hammer than with a key.",
+        "opposite_statement": "It is easier to open a door with a key than with a hammer.",
+        "additional_sentences": [
+            "The door's lock mechanism is heavily rusted, making it difficult to insert or turn a key.",
+            "You have a physical condition that makes fine motor skills, such as those required to use a key, difficult."
+        ]
+    },
+    {
+        "scenario": "The ease of opening a door is being compared between using a key and using a hammer.",
+        "statement": "It is easier to open a door with a key than with a hammer.",
+        "opposite_statement": "It is easier to open a door with a hammer than with a key.",
+        "additional_sentences": [
+            "The door is properly maintained and is not stuck or jammed.",
+            "The key to the door is readily available and the lock is in good working order.",
+            "The user is trained or is familiar with lock mechanisms and the correct usage of keys.",
+            "The door is locked but you have the correct key for it."
+        ]
+    },
+    {
+        "scenario": "The ease of opening a locked car door and a book using a human hand is being compared.",
+        "statement": "It is easier to open a locked car door with a human hand than it is to open a book with a human hand.",
+        "opposite_statement": "It is easier to open a book with a human hand than it is to open a locked car door with a human hand.",
+        "additional_sentences": [
+            "The person trying to open the items doesn't have the key to the locked car door.",
+            "The car door is locked and has a sophisticated locking system that prevents easy manual unlocking.",
+            "The book is not damaged or stuck together in any way that will make it difficult to open."
+        ]
+    },
+    {
+        "scenario": "The ease of parking a school bus is being compared to parking a car.",
+        "statement": "It's easier to park a school bus compared to a car.",
+        "opposite_statement": "It's easier to park a car compared to a school bus.",
+        "additional_sentences": [
+            "The school bus operates in more controlled conditions such as predefined routes and predetermined parking slots, unlike a car which typically has to find parking in congested areas.",
+            "The parking lot is exceptionally large and designed to accommodate the size of school buses.",
+            "The required parking spot is parallel and the available space is narrow.",
+            "The vehicle needs to be parked in a crowded urban area with tight spaces.",
+            "The parking space is designed for standard-sized cars.",
+            "The parking area is designed specifically for small to mid-sized vehicles."
+        ]
+    },
+    {
+        "scenario": "The ease of picking up an orange compared to picking up a television is being considered.",
+        "statement": "It is easier to pick up an orange than a television.",
+        "opposite_statement": "It is easier to pick up a television than an orange.",
+        "additional_sentences": [
+            "The television in question is a mini or portable model.",
+            "The television is a smaller, portable model and the orange is a large, decorative, and extremely heavy object."
+        ]
+    },
+    {
+        "scenario": "The ease of pulling a cart is being compared between round wheels and square wheels for a horse.",
+        "statement": "It is easier for a horse to pull a cart with round wheels rather than square ones.",
+        "opposite_statement": "It is easier for a horse to pull a cart with square wheels rather than round ones.",
+        "additional_sentences": [
+            "Round wheels have been the standard for wagons and carts since ancient times due to their ability to roll smoothly and efficiently.",
+            "Round wheels can minimize the resistance encountered on the ground.",
+            "Round wheels rotate more naturally due to their symmetrical shape.",
+            "Round wheels distribute weight evenly, ensuring that the horse doesn't need to exert extra force due to imbalances in load distribution."
+        ]
+    },
+    {
+        "scenario": "The ease of reading a clock is being considered, and the choice is between a digital clock and an analog clock.",
+        "statement": "If you want a clock that is easy to read, buy a digital clock rather than an analog one.",
+        "opposite_statement": "If you want a clock that is easy to read, buy an analog clock rather than a digital one.",
+        "additional_sentences": [
+            "The digital clock has large, clear digits.",
+            "Digital clocks display precise numeric time readings."
+        ]
+    },
+    {
+        "scenario": "The ease of reading a clock is being considered, and the choice is between an analog clock and a digital clock.",
+        "statement": "If you want a clock that is easy to read, buy a analog clock rather than a digital one.",
+        "opposite_statement": "If you want a clock that is easy to read, buy a digital clock rather than an analog one.",
+        "additional_sentences": [
+            "You have been taught to read time on analog clocks and are more familiar with that format.",
+            "You are more accustomed to reading time in an analog format."
+        ]
+    },
+    {
+        "scenario": "The ease of slicing fruit is being compared between using a mandolin and using a spoon.",
+        "statement": "Slicing fruit with a mandolin is easier than slicing fruit with a spoon.",
+        "opposite_statement": "Slicing fruit with a spoon is easier than slicing fruit with a mandolin.",
+        "additional_sentences": [
+            "You have been trained in or are familiar with using a mandolin.",
+            "The mandolin has adjustable thickness settings.",
+            "The fruit being sliced is soft and ripe, which doesn't require much force.",
+            "The person doing the task is not familiar with how to use a mandolin.",
+            "You are highly skilled in using a spoon for slicing but inexperienced in using a mandolin.",
+            "The fruit you're trying to slice is soft and ripe."
+        ]
+    },
+    {
+        "scenario": "The ease of starting a walking exercise routine with different weights is being considered.",
+        "statement": "It will be easier to start walking with three pound weights than ten pound ones.",
+        "opposite_statement": "It will be easier to start walking with ten pound weights than three pound ones.",
+        "additional_sentences": [
+            "The person starting to walk with weights has never done it before or hasn't exercised in a long time.",
+            "The walking exercise requires a high number of repetitions or long duration, which could lead to fatigue with heavier weights.",
+            "The person starting to walk with weights has never done any weight training before."
+        ]
+    },
+    {
+        "scenario": "The ease of swallowing is being compared between an orange fruit and orange juice.",
+        "statement": "It is easier to swallow an orange fruit than orange juice",
+        "opposite_statement": "It is easier to swallow orange juice than an orange fruit.",
+        "additional_sentences": [
+            "Chewing, which is necessary when consuming a whole orange fruit, can be difficult for some individuals due to dental or digestive issues.",
+            "The person consuming the orange fruit or juice has a difficult time chewing solids due to dental issues."
+        ]
+    },
+    {
+        "scenario": "The ease of swallowing is being compared between orange juice and an orange fruit.",
+        "statement": "It is easier to swallow orange juice than an orange fruit",
+        "opposite_statement": "It is easier to swallow an orange fruit than orange juice.",
+        "additional_sentences": [
+            "Orange juice has been strained to remove the pulp and the seeds.",
+            "Orange juice has a liquid consistency that flows easily down the throat.",
+            "The orange fruit has a thick peel and includes fibrous segments.",
+            "Orange juice can be consumed by people who have difficulty chewing."
+        ]
+    },
+    {
+        "scenario": "The ease of using a hammer to drive nails or screws is being compared.",
+        "statement": "It's easier to use a hammer to drive nails rather than screws.",
+        "opposite_statement": "It's easier to use a hammer to drive screws rather than nails.",
+        "additional_sentences": [
+            "The object you're fastening together is thick and requires the raw force a hammer provides.",
+            "Nails are designed with a flat head which is suited for the flat impact surface of the hammer.",
+            "The use of a hammer might be faster in certain construction scenarios.",
+            "The nails have a flat head designed for driving with a hammer.",
+            "Hammers are specifically designed to drive nails."
+        ]
+    },
+    {
+        "scenario": "The ease of using either a rock or glass to grind up nuts is being compared.",
+        "statement": "It is easier to use a rock to ground up nuts instead of glass.",
+        "opposite_statement": "It is easier to use glass to ground up nuts instead of a rock.",
+        "additional_sentences": [
+            "The shape of the glass is optimized for grinding nuts, like a bowl or a rounded surface, and you have a method to safely handle the glass.",
+            "The glass being used is a grinder made of hardened, sturdy glass.",
+            "The glass is of a particular type that is toughened or strengthened for durability and efficiency."
+        ]
+    },
+    {
+        "scenario": "The ease of walking on different surfaces, specifically grass and sand, is being compared.",
+        "statement": "It is easier to walk on the grass than in the sand.",
+        "opposite_statement": "It is easier to walk in the sand than on the grass.",
+        "additional_sentences": [
+            "The grass area is full of pitfalls or has been infested with insects.",
+            "The sand in question is loose and deep rather than compact and wet.",
+            "The sand is loose and dry.",
+            "The grass is slippery or wet due to recent rain or dew."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of a brick and a soda bottle as door stops is being compared.",
+        "statement": "A brick makes for a better door stop than a soda bottle.",
+        "opposite_statement": "A soda bottle makes for a better door stop than a brick.",
+        "additional_sentences": [
+            "The door to be stopped is a heavy one.",
+            "The door that needs to be stopped is heavy and often swings open with force."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of a coat and a sweater in keeping warm in extremely cold weather is being compared.",
+        "statement": "A coat will keep you warmer than a sweater when it's really cold outside.",
+        "opposite_statement": "A sweater will keep you warmer than a coat when it's really cold outside.",
+        "additional_sentences": [
+            "The coat is filled with down-filling, which is generally warmer than the fibers in a typical sweater.",
+            "The coat has multiple layers for insulation.",
+            "The coat is longer and covers more of the body than the sweater.",
+            "The coat includes additional features such as a hood, multiple layers, and wind-resistant properties.",
+            "The person wearing the coat is also layering it over a base layer and sweater."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of a guard dog and a guard cat in keeping a house safe is being compared.",
+        "statement": "A guard dog will not keep your house as safe as a guard cat would.",
+        "opposite_statement": "A guard dog will keep your house as safe as a guard cat would.",
+        "additional_sentences": [
+            "The guard cat is a specially trained security animal.",
+            "The intruder has significant allergies to cats but not dogs."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of counting calories versus counting steps for weight loss is being evaluated.",
+        "statement": "If you want to lose weight, it is better to count your calories than count your steps.",
+        "opposite_statement": "If you want to lose weight, it is better to count your steps than count your calories.",
+        "additional_sentences": [
+            "You consume mostly whole, unprocessed foods which makes counting calories accurately difficult.",
+            "You engage in regular exercise activities and lead an active lifestyle."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of different types of condoms is being compared, specifically cotton and latex condoms.",
+        "statement": "It would be more effective to have sex with a cotton condom rather than a latex one.",
+        "opposite_statement": "It would be more effective to have sex with a latex condom rather than a cotton one.",
+        "additional_sentences": [
+            "Latex condoms have been extensively tested and approved by health institutions for their effectiveness in preventing unwanted pregnancies and sexually transmitted infections.",
+            "Latex is a waterproof material that can ensure the condom does not deteriorate in the presence of body fluids."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of drawing attention is being compared between hanging one balloon and hanging one hundred balloons.",
+        "statement": "It is more likely to draw attention if you hang one hundred balloons instead of one.",
+        "opposite_statement": "It is more likely to draw attention if you hang one balloon instead of one hundred.",
+        "additional_sentences": [
+            "The one balloon is hung in a prominent spot, whereas the hundred balloons are scattered or located in less noticeable areas.",
+            "The one balloon features a particular insignia, motif, or significant message."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of using a brick or a paper cup to hold a door open is being compared.",
+        "statement": "A brick is better to hold a door open than a paper cup.",
+        "opposite_statement": "A paper cup is better to hold a door open than a brick.",
+        "additional_sentences": [
+            "The ground where the doorstop needs to be placed is uneven or rough.",
+            "The door is heavy."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of using a microscope or a magnifying glass to examine gems is being compared.",
+        "statement": "A microscope is better to look at gems than a magnifying glass.",
+        "opposite_statement": "A magnifying glass is better to look at gems than a microscope.",
+        "additional_sentences": [
+            "You need to conduct professional-level gemology studies which require detailed, up-close examination of gems.",
+            "The microscope being used is equipped with additional features such as polarizing filters or darkfield illumination.",
+            "The gems contain microscopic inclusions that require high magnification to be seen."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of using a steel pipe or a paper towel as a hammer is being compared.",
+        "statement": "A steel pipe works better as a hammer than a paper towel",
+        "opposite_statement": "A paper towel works better as a hammer than a steel pipe.",
+        "additional_sentences": [
+            "The task to be performed needs forceful impact such as nailing something or breaking a hard object.",
+            "The user wants to shape or deform a material with their tool.",
+            "The steel pipe and the paper towel are each being used in a situation where durability and hardness are essential.",
+            "The items in question, the steel pipe and paper towel, are being used for a task that requires significant force being applied."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of using a terry-cloth towel versus a dry piece of plywood for drying off is being considered.",
+        "statement": "If you need something to dry off with, it is better to use a terry-cloth towel rather than a dry piece of plywood.",
+        "opposite_statement": "If you need something to dry off with, it is better to use a dry piece of plywood rather than a terry-cloth towel.",
+        "additional_sentences": [
+            "The item you're drying off is an object that might be damaged by the fabric of a terry-cloth towel.",
+            "You need to remove water from your body or other surfaces.",
+            "Terry-cloth fabric is designed to absorb water.",
+            "The only terry-cloth towel available is extremely dirty."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of using different materials, specifically a basketball or a pile of limes, for starting a compost pile is being considered.",
+        "statement": "If I am starting a compost pile, it is more effective to use a basketball than it is to use a pile of limes.",
+        "opposite_statement": "If I am starting a compost pile, it is more effective to use a pile of limes than it is to use a basketball.",
+        "additional_sentences": [
+            "Limes break down more easily than a basketball.",
+            "You aim to use the basketball as a physical base to initiate air circulation and create gaps for aeration in your compost pile.",
+            "Your compost pile requires materials with minimal acidity.",
+            "Limes are acidic and can help break down other materials in a compost pile."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of using different materials, specifically a pile of limes or a basketball, for starting a compost pile is being considered.",
+        "statement": "If I am starting a compost pile, it is more effective to use a pile of limes than it is to use a basketball.",
+        "opposite_statement": "If I am starting a compost pile, it is more effective to use a basketball than it is to use a pile of limes.",
+        "additional_sentences": [
+            "Limes have a high water content which can contribute to the moisture needed for a successful compost pile.",
+            "The citrus acid and the nutrients in limes can expedite the composting process."
+        ]
+    },
+    {
+        "scenario": "The effectiveness of using honey or tepid water for cleaning a floor is being compared.",
+        "statement": "You can clean a floor with honey much better than you can clean it with tepid water.",
+        "opposite_statement": "You can clean a floor with tepid water much better than you can clean it with honey.",
+        "additional_sentences": [
+            "You use honey in combination with a strong, gritty cleaning pad.",
+            "The floor has specific kinds of stains that are known to be more effectively removed by adhesive substances like honey.",
+            "The flooring material has a unique property that causes it to be cleaned better when using a viscous substance such as honey.",
+            "Tepid water is easier to spread and does not leave a sticky surface.",
+            "The dirt or stain on the floor is water soluble."
+        ]
+    },
+    {
+        "scenario": "The efficiency of cooking noodles is being compared between hot water and warm water.",
+        "statement": "Noodles cook much more efficiently in hot water than they do in warm water.",
+        "opposite_statement": "Noodles cook much more efficiently in warm water than they do in hot water.",
+        "additional_sentences": [
+            "The cooking process involves soaking the noodles in warm water for an extended period, rather than a fast, hot boil.",
+            "The specific type of noodles in question requires a boiling environment to properly separate and cook.",
+            "Hot water helps in killing any potential foodborne pathogens or microbes present in the noodles.",
+            "The type of noodles being cooked require a slower, gentler cooking process."
+        ]
+    },
+    {
+        "scenario": "The efficiency of cooking noodles is being compared between using warm water and hot water.",
+        "statement": "Noodles cook much more efficiently in warm water than they do in hot water.",
+        "opposite_statement": "Noodles cook much more efficiently in hot water than they do in warm water.",
+        "additional_sentences": [
+            "Noodles in question are a type of pasta that designed to hydrate fast with lesser heat.",
+            "The noodles require a high-temperature environment for optimal preparation.",
+            "The noodles being cooked are of a particular type designed to cook well in lower temperatures.",
+            "The higher temperature of hot water accelerates the cooking process."
+        ]
+    },
+    {
+        "scenario": "The efficiency of painting a ceiling is being compared between using a paint roller and a paintbrush.",
+        "statement": "It is quicker to paint a ceiling with a paint roller instead of a paintbrush.",
+        "opposite_statement": "It is quicker to paint a ceiling with a paintbrush instead of a paint roller.",
+        "additional_sentences": [
+            "The ceiling to be painted is high and expansive.",
+            "The paint used has a consistency better suited for a roller application."
+        ]
+    },
+    {
+        "scenario": "The efficiency of using different ladder lengths to access a roof is being considered.",
+        "statement": "You can more efficiently get on your roof with a three foot ladder than you can with a thirty foot ladder.",
+        "opposite_statement": "You can more efficiently get on your roof with a thirty foot ladder than you can with a three foot ladder.",
+        "additional_sentences": [
+            "Your roofing is made of a delicate material that could be damaged by the weight or size of a thirty-foot ladder.",
+            "The roof access hatch or window is only a short climb from an upper level floor or platform.",
+            "The roof you are trying to get onto is much lower than average, like a shed or a single level tiny house."
+        ]
+    },
+    {
+        "scenario": "The efficiency of using different ladder lengths to access the roof is being considered.",
+        "statement": "You can more efficiently get on your roof with a thirty foot ladder than you can with a three foot ladder.",
+        "opposite_statement": "You can more efficiently get on your roof with a three-foot ladder than you can with a thirty-foot ladder.",
+        "additional_sentences": [
+            "There are platforms or ledges on your house that you can step on before reaching for the roof.",
+            "The height of the house is relatively low, near to three feet."
+        ]
+    },
+    {
+        "scenario": "The goal of gaining weight is being considered, and the choice of snack between apple sauce and fries is being discussed.",
+        "statement": "Since you want to gain weight, it's a better idea to snack on apple sauce instead of fries.",
+        "opposite_statement": "Since you want to gain weight, it's a better idea to snack on fries instead of apple sauce.",
+        "additional_sentences": [
+            "You are consuming a significantly larger quantity of apple sauce compared to the amount of fries.",
+            "You tend to overeat apple sauce compared to fries."
+        ]
+    },
+    {
+        "scenario": "The height of a human and a giraffe is being compared when measured at the shoulder.",
+        "statement": "A human is shorter when measured at the shoulder than giraffe.",
+        "opposite_statement": "A human is taller when measured at the shoulder than a giraffe.",
+        "additional_sentences": [
+            "Humans belong to Homo sapiens species, with the average shoulder height much less than those of a mature giraffe.",
+            "Giraffes are the tallest mammals on Earth, with males standing at up to 18 feet tall at the shoulders.",
+            "The average height of a fully-grown human is shorter than the shoulder height of a newborn giraffe.",
+            "Humans and giraffes have vastly different body structures."
+        ]
+    },
+    {
+        "scenario": "The height of a human and a giraffe is being compared when measured at the shoulder.",
+        "statement": "A human is taller when measured at the shoulder than giraffe.",
+        "opposite_statement": "A giraffe is taller when measured at the shoulder than a human.",
+        "additional_sentences": [
+            "Giraffes are the world's tallest mammals.",
+            "A fully grown, mature giraffe's shoulder height averages between 9 and 11 feet."
+        ]
+    },
+    {
+        "scenario": "The level of attention drawn by hanging either one balloon or one hundred balloons is being considered.",
+        "statement": "It is less likely to draw attention if you hang one hundred balloons instead of one.",
+        "opposite_statement": "It is more likely to draw attention if you hang one hundred balloons instead of one.",
+        "additional_sentences": [
+            "The balloons are all of the same color and shape as the surrounding decor.",
+            "The hundred balloons are all white while the single balloon is brightly colored.",
+            "All the balloons are of a uniform, neutral color that blends with their surrounding environment."
+        ]
+    },
+    {
+        "scenario": "The level of protection for a phone from a potential fall is being considered, comparing the use of a canvas bag and a plastic bag.",
+        "statement": "If you want to protect your phone more from a potential fall, you should put it in a canvas bag instead of a plastic bag.",
+        "opposite_statement": "If you want to protect your phone more from a potential fall, you should put it in a plastic bag instead of a canvas bag.",
+        "additional_sentences": [
+            "The canvas bag has extra padding or lining which could cushion the fall.",
+            "The canvas bag is lined with padding or includes protective compartments.",
+            "The canvas bag in question is lined with thicker material or padding.",
+            "The plastic bag in question is a specialized bag designed for maximum phone protection.",
+            "The plastic bag is water-resistant or waterproof."
+        ]
+    },
+    {
+        "scenario": "The likelihood of falling asleep is being compared after consuming warm milk or warm coffee.",
+        "statement": "One is less likely to fall asleep after having warm milk than warm coffee.",
+        "opposite_statement": "One is less likely to fall asleep after having warm coffee than warm milk.",
+        "additional_sentences": [
+            "Coffee usually contains caffeine, a stimulant that is known to improve alertness and decrease fatigue.",
+            "The person drinking the beverage is lactose intolerant.",
+            "Warm coffee can keep you awake due to its invigorating aroma and taste.",
+            "Coffee consumption can lead to increased alertness and concentration.",
+            "Coffee often contains caffeine that is known to stimulate the nervous system.",
+            "The individual drinking the warm coffee has a high tolerance to caffeine."
+        ]
+    },
+    {
+        "scenario": "The likelihood of igniting the candle's wick is being compared between using one match and using four matches.",
+        "statement": "The candle's wick is more likely to be ignited with four matches instead of one match.",
+        "opposite_statement": "The candle's wick is more likely to be ignited with one match instead of four matches.",
+        "additional_sentences": [
+            "The matches are low-quality and have a higher chance to fizzle out before igniting the candle wick.",
+            "The candle's wick is thick or coated, requiring more heat to start burning.",
+            "The candle's wick is exceedingly thick."
+        ]
+    },
+    {
+        "scenario": "The method of tying back curtains is being discussed, comparing the use of a blanket and a scarf.",
+        "statement": "It is better to tie back the curtains with a blanket than a scarf.",
+        "opposite_statement": "It is better to tie back the curtains with a scarf than a blanket.",
+        "additional_sentences": [
+            "The scarf is chosen because it matches or complements the decor or color scheme of the room.",
+            "The scarf matches the color and design of the curtains.",
+            "The windows are not very large, making a small item like a scarf more suitable for tying the curtains.",
+            "The aesthetic of the room favors slender, decorative tiebacks like scarves."
+        ]
+    },
+    {
+        "scenario": "The method of tying back curtains is being discussed, comparing the use of a scarf and a blanket.",
+        "statement": "It is better to tie back the curtains with a scarf than a blanket.",
+        "opposite_statement": "It is better to tie back the curtains with a blanket than a scarf.",
+        "additional_sentences": [
+            "There is a need for more material to tie back an especially wide curtain.",
+            "The curtain is heavy and requires a robust material to hold it back effectively."
+        ]
+    },
+    {
+        "scenario": "The mode of transportation for a cross-country trip is being considered, with the options of taking a taxi or a plane.",
+        "statement": "If she has to travel across the country, it is better to take a taxi than a plane.",
+        "opposite_statement": "If she has to travel across the country, it is better to take a plane than a taxi.",
+        "additional_sentences": [
+            "She is apprehensive about flying or has a medical condition that makes air travel uncomfortable or risky.",
+            "She needs to make several stops across the country.",
+            "She has an extreme fear of flying or a medical condition like severe ear pain that becomes unbearable while flying.",
+            "She has time constraints and needs to reach her destination as quickly as possible.",
+            "The destination she needs to reach is 2,000 miles away.",
+            "Long taxi rides could be significantly pricier than plane tickets, especially when accounting for factors like fuel and the taxi driver's time."
+        ]
+    },
+    {
+        "scenario": "The most effective tool for cleaning up spilled water is being considered.",
+        "statement": "When cleaning up spilled water, it is better to use a brush than a cloth.",
+        "opposite_statement": "When cleaning up spilled water, it is better to use a cloth than a brush.",
+        "additional_sentences": [
+            "The water is mixed with a solid waste which might be harder to clean with a cloth.",
+            "There are solid particles mixed in with the water."
+        ]
+    },
+    {
+        "scenario": "The most sensible method for heating up a bagel is being considered, comparing the use of a toaster and a stove top.",
+        "statement": "It's more sensible to heat up a bagel in the toaster rather than on a stove top.",
+        "opposite_statement": "It's more sensible to heat up a bagel on a stove top rather than in the toaster.",
+        "additional_sentences": [
+            "Using a toaster to heat up a bagel can save on time and doesn't require one to supervise the process closely.",
+            "A toaster is designed to brown the surface of the bagel evenly, which a stove top might not achieve.",
+            "You're attempting to toast a filled or topped bagel which could produce a mess inside a toaster.",
+            "You are preparing a recipe that requires heating the bagel in a specific way that a toaster can't achieve.",
+            "It's an older model toaster that doesn't heat evenly or adequately.",
+            "You prefer a softer texture for your bagel rather than a crispier one."
+        ]
+    },
+    {
+        "scenario": "The person is in a situation where they need to find an alternative to a blanket for warmth. They are considering using either a shower curtain or a rug.",
+        "statement": "If I don't have a blanket to keep warm, it's better to use a shower curtain as a substitute than a rug.",
+        "opposite_statement": "If I don't have a blanket to keep warm, it's better to use a rug as a substitute than a shower curtain.",
+        "additional_sentences": [
+            "Rugs are made from materials like wool or synthetic fibers that have excellent insulating properties.",
+            "The rug in this context is thick and large."
+        ]
+    },
+    {
+        "scenario": "The potential health hazards of accidentally swallowing a cork or a wristwatch are being compared.",
+        "statement": "It is less hazardous to your health to accidentally swallow a cork than it is to swallow a wristwatch.",
+        "opposite_statement": "It is more hazardous to your health to accidentally swallow a cork than it is to swallow a wristwatch.",
+        "additional_sentences": [
+            "The smooth and uncomplicated shape of a cork is less likely to cause internal injury than the potentially sharp and intricate parts of a wristwatch.",
+            "The cork comes from a clean source and does not have exterior contaminants or sharp edges."
+        ]
+    },
+    {
+        "scenario": "The practicality of using a blanket or a towel as a yoga mat is being compared.",
+        "statement": "It is more practical to use a blanket as a yoga mat instead of a towel.",
+        "opposite_statement": "It is more practical to use a towel as a yoga mat instead of a blanket.",
+        "additional_sentences": [
+            "The user wants to travel light and a yoga mat is not on hand.",
+            "Towels are generally lighter and easier to carry around than blankets."
+        ]
+    },
+    {
+        "scenario": "The practicality of using a towel or a blanket as a yoga mat is being considered.",
+        "statement": "It is more practical to use a towel as a yoga mat instead of a blanket.",
+        "opposite_statement": "It is more practical to use a blanket as a yoga mat instead of a towel.",
+        "additional_sentences": [
+            "You're performing yin yoga or a restorative style of yoga where more padding is beneficial.",
+            "You're practicing yoga positions that demand knee or joint support.",
+            "You are practicing yoga on a smooth surface where a towel might easily slip.",
+            "The blanket is thick and provides more cushioning compared to a towel."
+        ]
+    },
+    {
+        "scenario": "The relative safety of swimming in a pool versus swimming in the sea is being evaluated.",
+        "statement": "it is more dangerous to swim in the pool than in the sea.",
+        "opposite_statement": "it is more dangerous to swim in the sea than in the pool.",
+        "additional_sentences": [
+            "The sea is home to various potential dangers, such as strong waves, rip currents, and potentially dangerous marine animals.",
+            "The specific sea in question is known for having unpredictable and rapidly changing weather conditions."
+        ]
+    },
+    {
+        "scenario": "The safety of swimming with sharks is being discussed, comparing the safety inside and outside of a cage.",
+        "statement": "Swimming with sharks is a lot safer inside of a cage",
+        "opposite_statement": "Swimming with sharks is a lot safer outside of a cage.",
+        "additional_sentences": [
+            "The cage is made of a sturdy and strong material that cannot be easily damaged or breached by sharks.",
+            "The cage allows you a direct line of vision to the sharks at all times.",
+            "The person in the cage is not an experienced diver.",
+            "The cage is made of a sturdy material that sharks cannot break through."
+        ]
+    },
+    {
+        "scenario": "The sanitation level of cleaning a wound with alcohol versus vinegar is being compared.",
+        "statement": "It is less sanitary to clean out a wound with alcohol than vinegar.",
+        "opposite_statement": "It is less sanitary to clean out a wound with vinegar than alcohol.",
+        "additional_sentences": [
+            "Vinegar may contain bacteria from not being distilled or stored properly, whereas pharmaceutical-grade alcohol is often manufactured under sterile conditions.",
+            "The vinegar being used for wound cleaning is a culinary variety, not a pharmaceutical-grade antiseptic.",
+            "The wound being treated is already infected and requires powerful antimicrobial effects."
+        ]
+    },
+    {
+        "scenario": "The search for a drink that provides an energizing effect is being considered, with a focus on the presence of either caffeine or protein.",
+        "statement": "If you want a drink that wakes you up, it's better to look for one with a lot of caffeine rather than protein.",
+        "opposite_statement": "If you want a drink that wakes you up, it's better to look for one with a lot of protein rather than caffeine.",
+        "additional_sentences": [
+            "Drinks with higher caffeine content, like coffee or energy drinks, are often marketed and consumed as beverages to combat fatigue and improve concentration.",
+            "The effects of protein consumption on wakefulness are less direct, and longer term than those of caffeine."
+        ]
+    },
+    {
+        "scenario": "The similarity in appearance between sugar and salt is being discussed in relation to their usage on spaghetti.",
+        "statement": "Sugar and salt look the same, but I'd only use sugar on my spaghetti.",
+        "opposite_statement": "Sugar and salt look the same, but I'd only use salt on my spaghetti.",
+        "additional_sentences": [
+            "Typically, salt is used in meals like spaghetti to enhance its savory taste.",
+            "There's a traditional preference for salty over sweet flavors in pasta dishes."
+        ]
+    },
+    {
+        "scenario": "The situation is being considered where someone does not have a bed and needs to find an alternative for sleeping.",
+        "statement": "If you don't have a bed, it would be better to use a pile of leaves as a blanket rather than a bathrobe.",
+        "opposite_statement": "If you don't have a bed, it would be better to use a bathrobe rather than a pile of leaves as a blanket.",
+        "additional_sentences": [
+            "The fabric of a bathrobe is softer and more comfortable against your skin than leaves.",
+            "The bathrobe is thin and lightweight, offering minimal heat retention.",
+            "The bathrobe is damp or wet.",
+            "The bathrobe is made of high-quality, insulating fabric such as fleece or wool.",
+            "A bathrobe as a blanket can provide more insulation than a pile of leaves.",
+            "The bathrobe is made from heavy, warm material such as terrycloth."
+        ]
+    },
+    {
+        "scenario": "The situation is that you forgot to bring a pen to complete an essay on an exam, and you need to decide whether to use a pencil or a highlighter as an alternative.",
+        "statement": "In the event that you do forget to bring a pen to complete the essay on the exam , it is advisable to use a pencil rather than a highlighter.",
+        "opposite_statement": "In the event that you do forget to bring a pen to complete the essay on the exam, it is advisable to use a highlighter rather than a pencil.",
+        "additional_sentences": [
+            "The pencil available is very light or low quality, making it difficult to see the text clearly.",
+            "The essay paper is made of a type of material that better absorbs the ink of a highlighter than pencil lead."
+        ]
+    },
+    {
+        "scenario": "The speaker is considering the effectiveness of coffee and chamomile tea in keeping them awake when they haven't slept enough.",
+        "statement": "When I haven't slept enough, I think that coffee is a better ally to keep me awake compared to chamomile tea.",
+        "opposite_statement": "When I haven't slept enough, I think that chamomile tea is a better ally to keep me awake compared to coffee.",
+        "additional_sentences": [
+            "You have a personal sensitivity or heightened response to caffeine.",
+            "The user might have conditioned their body to respond to coffee when they need to stay awake."
+        ]
+    },
+    {
+        "scenario": "The speed of a motorcycle and a scooter is being compared.",
+        "statement": "A motorcycle is faster than a scooter.",
+        "opposite_statement": "A scooter is faster than a motorcycle.",
+        "additional_sentences": [
+            "The motorcycle in comparison is an older model with limited horsepower.",
+            "The motorcycle and scooter are being ridden on a straight, open road.",
+            "Motorcycles typically have larger engines than scooters.",
+            "The scooter is a modern, high-performance electric model capable of higher speeds."
+        ]
+    },
+    {
+        "scenario": "The speed of painting is being compared between using a paintbrush and using a roller.",
+        "statement": "It is faster to paint with a paintbrush than a roller.",
+        "opposite_statement": "It is faster to paint with a roller than a paintbrush.",
+        "additional_sentences": [
+            "The painting involves a complicated design.",
+            "You have the adequate knowledge and skills in using a paint roller.",
+            "The surface you are painting is small and detailed.",
+            "The paint being used is suitable for roller application."
+        ]
+    },
+    {
+        "scenario": "The speed of painting is being compared between using a roller and using a paintbrush.",
+        "statement": "It is faster to paint with a roller than a paintbrush.",
+        "opposite_statement": "It is faster to paint with a paintbrush than a roller.",
+        "additional_sentences": [
+            "The type of paint being used is more suited to a brush application.",
+            "The paint being used is thick and doesn't spread easily with a roller.",
+            "The paint being used is thicker or has a texture that doesn't spread well with a roller.",
+            "The surface you are painting is small and intricate in design."
+        ]
+    },
+    {
+        "scenario": "The speed of travel is being compared between using a bicycle and using a motorcycle.",
+        "statement": "It is faster to travel by bicycle than by motorcycle",
+        "opposite_statement": "It is faster to travel by motorcycle than by bicycle.",
+        "additional_sentences": [
+            "The route taken favors a motorcycle due to highways or less congested roads being used.",
+            "The distance you need to travel is relatively long."
+        ]
+    },
+    {
+        "scenario": "The speed of travel is being compared between using a motorcycle and using a bicycle.",
+        "statement": "It is faster to travel by motorcycle than by bicycle.",
+        "opposite_statement": "It is faster to travel by bicycle than by motorcycle.",
+        "additional_sentences": [
+            "You are traveling a longer distance that is efficiently covered by a motorcycle.",
+            "The travel route includes numerous narrow paths or trails which are not accessible to motorcycles.",
+            "The journey involves highway or open road travel.",
+            "The terrain is even and well-paved, perfect for a motorcycle ride.",
+            "The area in which you are travelling is largely made up of narrow, congested roads or bike paths."
+        ]
+    },
+    {
+        "scenario": "The spiciness of a hot sauce is being discussed based on whether jalapeno or habanero peppers are used in its formulation.",
+        "statement": "A hot sauce is going to be hotter if it uses jalapeno peppers rather than habanero.",
+        "opposite_statement": "A hot sauce is going to be hotter if it uses habanero peppers rather than jalapeno.",
+        "additional_sentences": [
+            "The jalapenos used in the hot sauce are of a specifically bred variety that packs more Scoville heat units than normal.",
+            "The jalapeno peppers used in the hot sauce are a variety known as the Dragon's Breath, which is considered among the hottest peppers in the world."
+        ]
+    },
+    {
+        "scenario": "The spiciness of a hot sauce is being discussed in relation to the choice between using habanero peppers or jalapeno peppers.",
+        "statement": "A hot sauce is going to be hotter if it uses habanero peppers rather than jalapeno.",
+        "opposite_statement": "A hot sauce is not going to be hotter if it uses habanero peppers rather than jalapeno.",
+        "additional_sentences": [
+            "The concentration of Capsaicin, the compound responsible for the heat in peppers, is generally higher in habaneros compared to jalapenos.",
+            "The capsaicin content, which determines the heat, of habanero peppers is generally higher than that of jalapeno peppers.",
+            "Habaneros used in the hot sauce come from a particularly hot variety which is known to be significantly spicier than most jalapenos.",
+            "The habanero peppers used in the sauce are very ripe."
+        ]
+    },
+    {
+        "scenario": "The statement is comparing the acceptability of riding a tricycle versus a bike when there is a need to reach a destination quickly.",
+        "statement": "If you need to get somewhere quickly, it's more acceptable to ride a tricycle than a bike.",
+        "opposite_statement": "If you need to get somewhere quickly, it's more acceptable to ride a bike than a tricycle.",
+        "additional_sentences": [
+            "The only available bike is in poor condition or needs repair while a tricycle is ready to use.",
+            "The road you need to take is extremely narrow and congested, and only a small vehicle like a tricycle could navigate effectively."
+        ]
+    },
+    {
+        "scenario": "The statement is comparing the effectiveness of sharpening dull knives on wool versus leather.",
+        "statement": "It's better to sharpen dull knives on wool than leather.",
+        "opposite_statement": "It's better to sharpen dull knives on leather than wool.",
+        "additional_sentences": [
+            "You will use a sharpening compound that works better on wool as compared to leather.",
+            "The type of wool used for sharpening is a specific type that has been traditionally used for maintaining certain types of blades."
+        ]
+    },
+    {
+        "scenario": "The statement is comparing the suitability of using a mouse or a bouquet of flowers as a paperweight.",
+        "statement": "It is better to use a mouse as a paperweight than a bouquet of flowers.",
+        "opposite_statement": "It is better to use a bouquet of flowers as a paperweight than a mouse.",
+        "additional_sentences": [
+            "The bouquet of flowers is covered or encased in a heavier material like resin.",
+            "A bouquet of flowers, when properly arranged and bundled tightly, can have a substantive weight to it."
+        ]
+    },
+    {
+        "scenario": "The statement is comparing the use of a small spoon versus a serving spoon for eating soup.",
+        "statement": "It is better to eat soup with a small spoon than a serving spoon.",
+        "opposite_statement": "It is better to eat soup with a serving spoon than a small spoon.",
+        "additional_sentences": [
+            "A small spoon is easier to handle and has an appropriate mouth size in comparison.",
+            "Using a small spoon allows for slower consumption, enhancing the soup-eating experience."
+        ]
+    },
+    {
+        "scenario": "The statement is discussing the choice between using tissues or a dish towel as an alternative when there is no toilet paper available.",
+        "statement": "If you are out of toilet paper, tissues would be a better alternative than a dish towel.",
+        "opposite_statement": "If you are out of toilet paper, a dish towel would be a better alternative than tissues.",
+        "additional_sentences": [
+            "You're considering sustainability; dish towels can be washed and reused, unlike tissues that are single-use.",
+            "The dish towel is made of microfiber, which can be highly absorbent and soft for personal cleaning."
+        ]
+    },
+    {
+        "scenario": "The statement suggests that the taste of barbecued food is enhanced when cooked on the stove compared to a grill.",
+        "statement": "For better taste, it's better to barbecue on the stove than on a grill.",
+        "opposite_statement": "For better taste, it's better to barbecue on a grill than on the stove.",
+        "additional_sentences": [
+            "The stove you're cooking on has a highly controlled heat source which can bring a more consistent cooking temperature.",
+            "The texture added by the grill to the barbecue can affect the overall taste experience.",
+            "Grilling typically involves a higher heat and aids in achieving a seared crust on the food.",
+            "You prefer the rich, outdoorsy flavor that grilling imparts.",
+            "You're cooking a dish that requires precise temperature adjustment which a stove can provide."
+        ]
+    },
+    {
+        "scenario": "The statement suggests that using a pair of tweezers instead of hands can help prevent damage to a rare comic book while turning its pages.",
+        "statement": "If you want to avoid damaging a rare comic book, you can turn the pages with a pair of tweezers instead of your hands.",
+        "opposite_statement": "If you want to avoid damaging a rare comic book, you cannot turn the pages with a pair of tweezers instead of your hands.",
+        "additional_sentences": [
+            "Tweezers can provide precision control to avoid rough handling of the comic book pages.",
+            "The comic book pages are particularly delicate and prone to ripping.",
+            "The comic book is particularly fragile due to its age.",
+            "You're in an environment that could provide potential contaminants to the book such as dust, dirt, or body oils."
+        ]
+    },
+    {
+        "scenario": "The statement suggests that when it's hot inside, the preferred choice of appliance to use is either a heater or a fan.",
+        "statement": "If it's hot inside you should turn on a heater and not a fan.",
+        "opposite_statement": "If it's hot inside, you should turn on a fan and not a heater.",
+        "additional_sentences": [
+            "You have a fan and a heater, both can only operate in their single function.",
+            "The fan has a cooling mode which can decrease the room temperature."
+        ]
+    },
+    {
+        "scenario": "The storage capacity of a car and a bike is being compared.",
+        "statement": "A car has more storage space than a bike.",
+        "opposite_statement": "A bike has more storage space than a car.",
+        "additional_sentences": [
+            "A car has potential for rooftop storage.",
+            "Car models typically come with a built-in trunk and various compartments for storage."
+        ]
+    },
+    {
+        "scenario": "The strength of thin ice is being considered in relation to the number of people on it.",
+        "statement": "Thin ice is more likely to break if there are two people on it rather than a group of people.",
+        "opposite_statement": "Thin ice is more likely to break if there is a group of people on it rather than just two people.",
+        "additional_sentences": [
+            "The weight tolerance of thin ice drastically reduces as the number of people on it increases.",
+            "The group of people includes some individuals considerably heavier than the average."
+        ]
+    },
+    {
+        "scenario": "The suitability of a chainsaw and a pickaxe for cutting down a tree is being compared.",
+        "statement": "A chainsaw is better suited to cutting down a tree than a pickaxe.",
+        "opposite_statement": "A pickaxe is better suited to cutting down a tree than a chainsaw.",
+        "additional_sentences": [
+            "The chainsaw is designed for cutting whereas the pickaxe is designed for breaking and prying.",
+            "You're in an area where loud noises are forbidden or strictly regulated.",
+            "The tree has a thick trunk that requires a power tool with the capacity to cut through large diameters.",
+            "The person doing the cutting has professional training in handling chainsaws.",
+            "You have considerable strength and stamina, but lack access to functional, sharp chainsaw."
+        ]
+    },
+    {
+        "scenario": "The suitability of a hammer and a banana for making a hole in the ice is being considered.",
+        "statement": "A hammer might be more suitable than a banana for making a hole in the ice.",
+        "opposite_statement": "A banana might be more suitable than a hammer for making a hole in the ice.",
+        "additional_sentences": [
+            "The hammer is made of sturdy, durable metal which can withstand the force needed to break the ice.",
+            "Your hands are protected with a proper grip that can remove the risk of injury while using the hammer."
+        ]
+    },
+    {
+        "scenario": "The suitability of a needle and a stick for making a small hole is being compared.",
+        "statement": "A needle will be less suitable for making a small hole than a stick.",
+        "opposite_statement": "A needle will be more suitable for making a small hole than a stick.",
+        "additional_sentences": [
+            "You need to make holes accurately without altering or damaging the surrounding material.",
+            "You are attempting to make a hole in a material with a tight weave, such as leather or dense fabric."
+        ]
+    },
+    {
+        "scenario": "The suitability of a spoon and a fork for eating soup is being considered.",
+        "statement": "A spoon might be less suitable for eating soup than a fork.",
+        "opposite_statement": "A spoon might be more suitable for eating soup than a fork.",
+        "additional_sentences": [
+            "You prefer to consume all the components of the soup in one single bite.",
+            "Some soups have smaller items like grains of rice or corn kernels that may slip through the tines of a fork but can be easily scooped up with a spoon."
+        ]
+    },
+    {
+        "scenario": "The suitability of a steel nail and a knife for drawing on a cement wall is being compared.",
+        "statement": "A steel nail is more suitable to draw on a cement wall than a knife.",
+        "opposite_statement": "A knife is more suitable to draw on a cement wall than a steel nail.",
+        "additional_sentences": [
+            "The cement wall has a rough and coarse texture.",
+            "The texture of the cement wall is rough and uneven.",
+            "The knife has a wide, flat edge that could be more suitable for making broader strokes on a cement wall.",
+            "The knife has a wider blade than the thickness of the steel nail."
+        ]
+    },
+    {
+        "scenario": "The suitability of storing a sample of liquor is being discussed, comparing tupperware and a wine bottle.",
+        "statement": "It is more suitable to store a sample of liquor in tupperware than in a wine bottle.",
+        "opposite_statement": "It is more suitable to store a sample of liquor in a wine bottle than in tupperware.",
+        "additional_sentences": [
+            "The liquor needs to be frozen for some specific reason.",
+            "Liquor, like other types of alcohol, is sensitive to the effects of oxygen.",
+            "Liquor needs to be stored in a cool, dark place, away from light.",
+            "The tupperware in question is airtight and made of a non-reactive material.",
+            "The wine bottle has a tight cork or cap that forms an air-tight seal.",
+            "Wine bottles are generally made from glass, which is non-reactive and won't alter the taste of the liquor."
+        ]
+    },
+    {
+        "scenario": "The suitability of storing a sample of soil is being discussed, comparing the use of tupperware and a wine bottle.",
+        "statement": "It is more suitable to store a sample of soil in tupperware than in a wine bottle.",
+        "opposite_statement": "It is more suitable to store a sample of soil in a wine bottle than in tupperware.",
+        "additional_sentences": [
+            "Regular access to the soil sample for testing purposes is a requirement.",
+            "The soil sample will need to be accessed frequently."
+        ]
+    },
+    {
+        "scenario": "The suitability of using a lawn mower or scissors for cutting grass is being compared.",
+        "statement": "A lawn mower is less suitable for cutting the grass than scissors.",
+        "opposite_statement": "A lawn mower is more suitable for cutting the grass than scissors.",
+        "additional_sentences": [
+            "There's a small patch of grass to be maintained.",
+            "The lawn is filled with obstacles such as rocks or tight corners.",
+            "The area of the lawn is very small or contains certain regions that are hard to reach.",
+            "The grass that needs to be cut is located in a hard-to-reach area, such as a steep slope or around a delicate flower bed."
+        ]
+    },
+    {
+        "scenario": "The suitability of using a pullover or a nylon sock to dry a water spill is being considered.",
+        "statement": "It is more suitable to dry water spill with a pullover than a nylon sock.",
+        "opposite_statement": "It is more suitable to dry water spill with a nylon sock than a pullover.",
+        "additional_sentences": [
+            "The nylon sock is super-absorbent or is designed for absorbing liquids.",
+            "The pullover is made from a more absorbent material such as cotton.",
+            "The pullover is significantly larger in size than the nylon sock.",
+            "The pullover is constructed from a thick, absorbent material like wool or cotton.",
+            "The pullover is made of a material that is less absorbent than nylon.",
+            "The pullover is made from a highly absorbent material like cotton or wool."
+        ]
+    },
+    {
+        "scenario": "Two boxes, one with handles and one without, are being compared in terms of ease of carrying.",
+        "statement": "It is harder to carry the box that has handles than the one that is smooth.",
+        "opposite_statement": "It is easier to carry the box that has handles than the one that is smooth.",
+        "additional_sentences": [
+            "Human grip strength is typically improved when the fingers have something to wrap around, like handles.",
+            "The box with handles is designed ergonomically, enabling a more comfortable and secure hold."
+        ]
+    },
+    {
+        "scenario": "Two skiers are comparing their descent times based on the slopes they chose to ski down.",
+        "statement": "The skier who went to the top of the shallow slope reached the bottom of the mountain sooner than the skier who went to the top of the steepest slope.",
+        "opposite_statement": "The skier who went to the top of the steepest slope reached the bottom of the mountain sooner than the skier who went to the top of the shallow slope.",
+        "additional_sentences": [
+            "The skier who went to the top of the shallow slope is more experienced and has better skiing skills compared to the skier who chose the steeper slope.",
+            "The skier on the shallow slope is an expert and can ski quickly and efficiently."
+        ]
+    },
+    {
+        "scenario": "Two skiers are comparing their experiences descending a mountain, one choosing the steepest slope and the other choosing the shallow slope.",
+        "statement": "The skier who went to the top of the steepest slope reached the bottom of the mountain sooner than the skier who went to the top of the shallow slope.",
+        "opposite_statement": "The skier who went to the top of the shallow slope reached the bottom of the mountain sooner than the skier who went to the top of the steepest slope.",
+        "additional_sentences": [
+            "The steepest slope was more crowded, leading to waiting and stopping times for the skier.",
+            "The skier going down the shallow slope has a high level of expertise and is able to maintain high speed with ease."
+        ]
+    },
+    {
+        "scenario": "You have forgotten to bring a pen to complete an essay on an exam and are considering using either a sharpie or a pencil.",
+        "statement": "In the event that you forget to bring a pen to complete the essay on the exam, it is advisable to use a sharpie rather than a pencil.",
+        "opposite_statement": "In the event that you forget to bring a pen to complete the essay on the exam, it is advisable to use a pencil rather than a sharpie.",
+        "additional_sentences": [
+            "The university has stated rules that essays must be written in ink-free instruments.",
+            "The exam paper is double-sided, meaning that a sharpie could potentially bleed through and spoil the other side of the paper.",
+            "The exam is being taken in a setting where the answers need to be visible under a certain type of scanner or camera, which may not pick up pencil marks well.",
+            "The exam instructions specify that answers must be written in ink, not in pencil."
+        ]
+    }
+]
