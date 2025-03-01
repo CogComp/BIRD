@@ -7,11 +7,11 @@ python -m vllm.entrypoints.openai.api_server --model meta-llama/Llama-3.1-70B-In
 
 # Baselines for experiment 1: human annotated probability comparison
 # Direct
-python -m baseline.model_probability_direct --save_file_dic=your assigned directory --dataset_file_dic=/BIRD/data 
+python -m baseline.model_probability_direct --save_file_dic=your assigned directory --dataset_file_dic=/BIRD/data/ 
 
 # Compare
-python -m baseline.model_probability_compare --save_file_dic=your assigned directory --dataset_file_dic=/BIRD/data 
+python -m baseline.model_probability_compare --save_file_dic=your assigned directory --dataset_file_dic=/BIRD/data/ 
 
 # Baselines for experiment 2: decision making
 # You can choose from common2sense / plasma / today
-python -m baseline.model_direct --dataset_name=plasma --save_file_dic=your assigned directory --dataset_file_dic=/BIRD/data 
+python -m baseline.model_direct --dataset_name=plasma --save_file_dic=your assigned directory --dataset_file_dic=/BIRD/data/ 
