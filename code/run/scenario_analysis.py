@@ -229,7 +229,7 @@ class Pipeline:
 
         attempts = 0
         message.append({"role": "assistant", "content": response})
-        if self.data_type == "common2sense":
+        if "common2sense" in self.data_type:
             message.append({"role": "user",
                             "content": "Do you think that's all the possible values for each factor? If one possible situation is mentioned (e.g., 'The bottle is lighter than the bowling ball'), ensure the opposite perspective is also mentioend as a value('The bottle is heavier than the bowling ball'). Each value must explicitly reference the specific elements in the statements, avoiding vague terms like 'the object' that could apply to either statement. Regenerate all the values for a factor if necessary opposite values are missing or the values are vague. Do not create values that imply extremes, such as 'moderate' or 'extreme'."})
         else:
