@@ -397,7 +397,6 @@ class Pipeline:
 
         if self.factor_outcome_judgement:
             factor_outcome_mapping_dict = defaultdict(list)
-            factor_outcome_mapping_list = []
             obj["factor_outcome_mapping"] = dict()
 
             for _ in range(0, self.num_factor_outcome_mapping):
@@ -415,7 +414,6 @@ class Pipeline:
                             factor_outcome_mapping_dict[key].append(value)
                         elif value == 'Neither':
                             factor_outcome_mapping_dict[key].append('Neither')
-                    factor_outcome_mapping_list.append(response)
 
             structure_list_flat = []
             for key, value in obj["structured_factors"].items():
@@ -426,10 +424,11 @@ class Pipeline:
                 value_set = set(factor_outcome_mapping_dict[sent])
                 if sent in structure_list_flat:
                     visited = 0
-                    if "Neither" not in value_set:
-                        for v in value_set:
-                            if (factor_outcome_mapping_dict[sent].count(v) / len(
-                                    factor_outcome_mapping_dict[sent])) >= 2 / 3:
+
+                    for v in value_set:
+                        if (factor_outcome_mapping_dict[sent].count(v) / len(
+                                factor_outcome_mapping_dict[sent])) >= 2 / 3:
+                            if v != "Neither":
                                 obj["factor_outcome_mapping"][sent] = v
                                 visited = 1
                                 break
@@ -442,7 +441,7 @@ class Pipeline:
             print("Finished Condition Factor Mapping.")
 
         # prune factors
-        obj["old_structured_factor_and_mapping"] = [obj['structured_factors'], obj["factor_outcome_mapping"]]
+        obj["old_structured_factor_and_mapping"] = [obj['structured_factors'], obj["factor_outcome_mapping"], factor_outcome_mapping_dict]
         obj["structured_factors"], obj["factor_outcome_mapping"] = self.prune_factors(obj['structured_factors'],
                                                                                       obj["factor_outcome_mapping"])
 
